@@ -44,7 +44,7 @@ namespace Convesys.Kernel.Data
 		protected BaseModel()
 		{
 			this.Created = DateTimeOffset.Now;
-			//this.Id = Guid.NewGuid();
+			this.Id = Guid.NewGuid();
 			this.IsDeleted = false;
 		}
 
