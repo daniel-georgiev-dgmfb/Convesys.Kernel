@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Convesys.Kernel.Data;
+using Convesys.Kernel.Data.ORM;
+using System;
 
 namespace Convesys.Kernel.Communication.Common
 {

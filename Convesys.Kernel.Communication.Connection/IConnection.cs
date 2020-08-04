@@ -13,7 +13,7 @@ namespace Convesys.Kernel.Communication.Connection
 		/// <value>
 		///     The connection definition.
 		/// </value>
-		ConnectionDefinition ConnectionDefinition { get; }
+		IDefinitionProvider<ConnectionDefinition> ConnectionDefinition { get; }
 
 		/// <summary>
 		///     Used to subscribe to connection events.
