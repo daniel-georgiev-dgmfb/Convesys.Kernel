@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Convesys.Kernel.Communication.Common;
+using System;
 using System.Threading.Tasks;
 
 namespace Convesys.Kernel.Communication.Connection
@@ -13,7 +14,7 @@ namespace Convesys.Kernel.Communication.Connection
 		/// <value>
 		///     The connection definition.
 		/// </value>
-		IDefinitionProvider<ConnectionDefinition> ConnectionDefinition { get; }
+		IDefinitionProvider<ConnectionDefinition> ConnectionDefinitionProvider { get; }
 
 		/// <summary>
 		///     Used to subscribe to connection events.
