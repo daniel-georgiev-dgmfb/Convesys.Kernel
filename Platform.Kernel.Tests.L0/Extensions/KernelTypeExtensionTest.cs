@@ -2,6 +2,7 @@
 {
 	using NUnit.Framework;
 	using Platform.Kernel.Extensions;
+	using Platform.Kernel.Reflection.Extensions;
 	using Platform.Kernel.Tests.L0.MockData;
 	using System;
 	using System.Collections.Generic;
@@ -30,7 +31,7 @@
 			// ACT
 
 			// ASSERT
-			Assert.Throws<ArgumentNullException>(() => TypeExtensions.ToGenericTypeString(null));
+			Assert.Throws<ArgumentNullException>(() => Kernel.Extensions.TypeExtensions.ToGenericTypeString(null));
 		}
 
         [Test]
@@ -89,7 +90,7 @@
 		[Test]
 		public void IsAssignableToGenericTypeTest_null_type()
 		{
-			Assert.Throws<ArgumentNullException>(() => TypeExtensions.IsAssignableToGenericType(null, typeof(GenericBaseClass<>)));
+			Assert.Throws<ArgumentNullException>(() => Kernel.Extensions.TypeExtensions.IsAssignableToGenericType(null, typeof(GenericBaseClass<>)));
 		}
 
 		[Test]

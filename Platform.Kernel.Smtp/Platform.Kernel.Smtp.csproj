@@ -14,4 +14,8 @@
     <Version>1.0.0</Version>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Platform.Kernel.Mime\Platform.Kernel.Mime.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Platform.Kernel.Auth;
+using System.Collections.Generic;
 
 namespace Platform.Kernel.Authentication.Services
 {

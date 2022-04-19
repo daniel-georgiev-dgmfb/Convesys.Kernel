@@ -14,31 +14,31 @@ namespace Platform.Kernel.Extensions
 		/// <param name="type">The type.</param>
 		/// <returns></returns>
 		/// <exception cref="System.ArgumentNullException">type</exception>
-		public static string ToGenericTypeString(this Type type)
-		{
-			if (type == null)
-				throw new ArgumentNullException("type");
+		//public static string ToGenericTypeString(this Type type)
+		//{
+		//	if (type == null)
+		//		throw new ArgumentNullException("type");
 
-			if (!type.IsGenericType)
-				return type.Name;
+		//	if (!type.IsGenericType)
+		//		return type.Name;
 
-			string genericTypeName = type.GetGenericTypeDefinition().Name;
-			genericTypeName = genericTypeName.Substring(0, genericTypeName.IndexOf(TypeExtensions.GenericTypeMarker));
-			string genericArgs = string.Join
-			(
-				",",
-				type
-				.GetGenericArguments()
-				.Select(genericType => genericType.ToGenericTypeString())
-				.ToArray()
-			);
-			return string.Format
-			(
-				"{0}<{1}>",
-				genericTypeName,
-				genericArgs
-			);
-		}
+		//	string genericTypeName = type.GetGenericTypeDefinition().Name;
+		//	genericTypeName = genericTypeName.Substring(0, genericTypeName.IndexOf(TypeExtensions.GenericTypeMarker));
+		//	string genericArgs = string.Join
+		//	(
+		//		",",
+		//		type
+		//		.GetGenericArguments()
+		//		.Select(genericType => genericType.ToGenericTypeString())
+		//		.ToArray()
+		//	);
+		//	return string.Format
+		//	(
+		//		"{0}<{1}>",
+		//		genericTypeName,
+		//		genericArgs
+		//	);
+		//}
 
 		
 		/// <summary>
@@ -48,50 +48,50 @@ namespace Platform.Kernel.Extensions
 		/// <param name="genericType">Type of the generic.</param>
 		/// <returns><c>true</c> if [is assignable to generic type] true; otherwise, <c>false</c>.</returns>
 		/// <exception cref="System.ArgumentNullException">type</exception>
-		public static bool IsAssignableToGenericType(this Type givenType, Type genericType)
-		{
-			if (givenType == null)
-				throw new ArgumentNullException("type");
-			if (genericType == null)
-				throw new ArgumentNullException("genericType");
+		//public static bool IsAssignableToGenericType(this Type givenType, Type genericType)
+		//{
+		//	if (givenType == null)
+		//		throw new ArgumentNullException("type");
+		//	if (genericType == null)
+		//		throw new ArgumentNullException("genericType");
 
-			if
-			(
-				genericType.IsInterface &&
-				givenType
-					.GetInterfaces()
-					.Any(@interface => TypeExtensions.TypesMatch(@interface, genericType))
-			)
-				return true;
+		//	if
+		//	(
+		//		genericType.IsInterface &&
+		//		givenType
+		//			.GetInterfaces()
+		//			.Any(@interface => TypeExtensions.TypesMatch(@interface, genericType))
+		//	)
+		//		return true;
 
-			if (TypeExtensions.TypesMatch(givenType, genericType))
-				return true;
+		//	if (TypeExtensions.TypesMatch(givenType, genericType))
+		//		return true;
 
-			if (givenType.BaseType == null)
-				return false;
+		//	if (givenType.BaseType == null)
+		//		return false;
 
-			return givenType.BaseType.IsAssignableToGenericType(genericType);
-		}
+		//	return givenType.BaseType.IsAssignableToGenericType(genericType);
+		//}
 
-		/// <summary>
-		/// Create a delgate for TryParse Method if T suports the method.
-		/// </summary>
-		/// <typeparam name="T">Type that suports TryParse method</typeparam>
-		/// <param name="type">Type for which the excension is called</param>
-		/// <returns></returns>
+		///// <summary>
+		///// Create a delgate for TryParse Method if T suports the method.
+		///// </summary>
+		///// <typeparam name="T">Type that suports TryParse method</typeparam>
+		///// <param name="type">Type for which the excension is called</param>
+		///// <returns></returns>
 		
-		private static bool TypesMatch(Type compare, Type to)
-		{
-			if (to.IsAssignableFrom(compare))
-				return true;
+		//private static bool TypesMatch(Type compare, Type to)
+		//{
+		//	if (to.IsAssignableFrom(compare))
+		//		return true;
 
-			if (compare.IsGenericType && to.IsGenericType && to.ContainsGenericParameters)
-				compare = compare.GetGenericTypeDefinition();
+		//	if (compare.IsGenericType && to.IsGenericType && to.ContainsGenericParameters)
+		//		compare = compare.GetGenericTypeDefinition();
 
-			if (compare.IsGenericType && to.IsGenericType && compare.ContainsGenericParameters)
-				to = to.GetGenericTypeDefinition();
+		//	if (compare.IsGenericType && to.IsGenericType && compare.ContainsGenericParameters)
+		//		to = to.GetGenericTypeDefinition();
 
-			return to.IsAssignableFrom(compare);
-		}
+		//	return to.IsAssignableFrom(compare);
+		//}
 	}
 }

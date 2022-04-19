@@ -1,4 +1,5 @@
-﻿using Platform.Kernel.Authentication.Services;
+﻿using Platform.Kernel.Auth;
+using Platform.Kernel.Authentication.Services;
 using System.Threading.Tasks;
 
 namespace Platform.Kernel.Authentication.AuthenticatonManagers

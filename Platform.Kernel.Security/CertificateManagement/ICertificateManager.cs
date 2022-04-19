@@ -1,4 +1,5 @@
-﻿using System.Security;
+﻿using Platform.Kernel.Security.Validation;
+using System.Security;
 using System.Security.Cryptography.X509Certificates;
 
 namespace Platform.Kernel.Security.CertificateManagement

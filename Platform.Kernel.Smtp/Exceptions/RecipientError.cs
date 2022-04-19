@@ -1,4 +1,6 @@
-﻿namespace Platform.Kernel.Smtp.Exceptions
+﻿using Platform.Kernel.Mime;
+
+namespace Platform.Kernel.Smtp.Exceptions
 {
 	public class RecipientError
     {

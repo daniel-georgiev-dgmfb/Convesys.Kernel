@@ -1,6 +1,8 @@
 ﻿namespace Platform.Kernel.Reflection.Tests.L0.Extensions
 {
 	using NUnit.Framework;
+	using Platform.Kernel.Reflection.Extensions;
+	using Platform.Kernel.Reflection.Tests.L0.MockData;
 	using System;
 	using System.Threading.Tasks;
 

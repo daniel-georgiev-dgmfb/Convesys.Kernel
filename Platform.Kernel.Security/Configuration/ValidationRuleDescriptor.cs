@@ -1,4 +1,6 @@
-﻿namespace Platform.Kernel.Security.Configuration
+﻿using Platform.Kernel.Reflection;
+
+namespace Platform.Kernel.Security.Configuration
 {
 	public class ValidationRuleDescriptor : TypeDescriptor
     {

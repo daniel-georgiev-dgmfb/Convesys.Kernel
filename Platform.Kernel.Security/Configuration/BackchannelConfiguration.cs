@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using Platform.Kernel.Reflection;
+using System.Collections.Generic;
 
 namespace Platform.Kernel.Security.Configuration
 {

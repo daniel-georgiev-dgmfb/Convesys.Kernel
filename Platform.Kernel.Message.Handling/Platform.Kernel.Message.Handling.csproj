@@ -8,10 +8,14 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Provide abstraction for message handling</Description>
     <Version>1.0.0</Version>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Platform.Kernel.Messaging\Platform.Kernel.Messaging.csproj" />
+  </ItemGroup>
 
 </Project>

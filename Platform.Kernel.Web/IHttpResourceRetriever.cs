@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Platform.Kernel.Configuration;
+using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Net.Http.Headers;

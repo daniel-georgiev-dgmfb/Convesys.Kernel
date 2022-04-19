@@ -1,3 +1,4 @@
+using Platform.Kernel.Mime;
 using Platform.Kernel.Smtp.IO;
 using System.Threading;
 using System.Threading.Tasks;

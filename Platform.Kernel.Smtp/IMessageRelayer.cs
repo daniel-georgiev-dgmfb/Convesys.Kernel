@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Platform.Kernel.Mime;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

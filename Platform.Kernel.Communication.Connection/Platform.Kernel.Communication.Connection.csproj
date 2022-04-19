@@ -5,4 +5,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Platform.Kernel.Hardware\Platform.Kernel.Hardware.csproj" />
+  </ItemGroup>
+
 </Project>

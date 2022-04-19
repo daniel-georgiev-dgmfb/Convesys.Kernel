@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Platform.Kernel.Data;
+using Platform.Kernel.Data.ORM;
+using System;
 
 namespace Platform.Kernel.Communication.Common
 {

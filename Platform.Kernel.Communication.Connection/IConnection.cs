@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Platform.Kernel.Communication.Common;
+using System;
 using System.Threading.Tasks;
 
 namespace Platform.Kernel.Communication.Connection

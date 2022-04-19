@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Platform.Kernel.Smtp.IO;
+using System;
 using System.Collections.Generic;
 using System.Net;
 

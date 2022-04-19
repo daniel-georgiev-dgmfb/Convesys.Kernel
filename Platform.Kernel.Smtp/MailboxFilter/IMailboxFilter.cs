@@ -1,4 +1,5 @@
-﻿using System.Threading;
+﻿using Platform.Kernel.Mime;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Platform.Kernel.Smtp.MailboxFilter

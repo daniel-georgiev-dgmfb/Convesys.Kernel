@@ -1,4 +1,5 @@
-﻿using System.Threading.Tasks;
+﻿using Platform.Kernel.Data;
+using System.Threading.Tasks;
 
 namespace Platform.Kernel.Authentication.Services
 {

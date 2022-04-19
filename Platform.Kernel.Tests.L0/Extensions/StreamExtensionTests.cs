@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using Platform.Kernel.Extensions;
 using System;
 using System.IO;
 using System.Text;
