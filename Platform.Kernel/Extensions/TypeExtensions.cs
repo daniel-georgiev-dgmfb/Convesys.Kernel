@@ -7,91 +7,91 @@ namespace Platform.Kernel.Extensions
 	{
 		//modified from: http://stackoverflow.com/questions/2448800/given-a-type-instance-how-to-get-generic-type-name-in-c
 		private const char GenericTypeMarker = '`';
-        
-		/// <summary>
-		/// Return a Type.String in the form "Type<T>"
-		/// </summary>
-		/// <param name="type">The type.</param>
-		/// <returns></returns>
-		/// <exception cref="System.ArgumentNullException">type</exception>
-		//public static string ToGenericTypeString(this Type type)
-		//{
-		//	if (type == null)
-		//		throw new ArgumentNullException("type");
 
-		//	if (!type.IsGenericType)
-		//		return type.Name;
+        /// <summary>
+        /// Return a Type.String in the form "Type<T>"
+        /// </summary>
+        /// <param name="type">The type.</param>
+        /// <returns></returns>
+        /// <exception cref="System.ArgumentNullException">type</exception>
+        public static string ToGenericTypeString(this Type type)
+        {
+            if (type == null)
+                throw new ArgumentNullException("type");
 
-		//	string genericTypeName = type.GetGenericTypeDefinition().Name;
-		//	genericTypeName = genericTypeName.Substring(0, genericTypeName.IndexOf(TypeExtensions.GenericTypeMarker));
-		//	string genericArgs = string.Join
-		//	(
-		//		",",
-		//		type
-		//		.GetGenericArguments()
-		//		.Select(genericType => genericType.ToGenericTypeString())
-		//		.ToArray()
-		//	);
-		//	return string.Format
-		//	(
-		//		"{0}<{1}>",
-		//		genericTypeName,
-		//		genericArgs
-		//	);
-		//}
+            if (!type.IsGenericType)
+                return type.Name;
 
-		
-		/// <summary>
-		/// Determines whether the given type or interface is assignable to generic type .
-		/// </summary>
-		/// <param name="givenType">Type of the given.</param>
-		/// <param name="genericType">Type of the generic.</param>
-		/// <returns><c>true</c> if [is assignable to generic type] true; otherwise, <c>false</c>.</returns>
-		/// <exception cref="System.ArgumentNullException">type</exception>
-		//public static bool IsAssignableToGenericType(this Type givenType, Type genericType)
-		//{
-		//	if (givenType == null)
-		//		throw new ArgumentNullException("type");
-		//	if (genericType == null)
-		//		throw new ArgumentNullException("genericType");
+            string genericTypeName = type.GetGenericTypeDefinition().Name;
+            genericTypeName = genericTypeName.Substring(0, genericTypeName.IndexOf(TypeExtensions.GenericTypeMarker));
+            string genericArgs = string.Join
+            (
+                ",",
+                type
+                .GetGenericArguments()
+                .Select(genericType => genericType.ToGenericTypeString())
+                .ToArray()
+            );
+            return string.Format
+            (
+                "{0}<{1}>",
+                genericTypeName,
+                genericArgs
+            );
+        }
 
-		//	if
-		//	(
-		//		genericType.IsInterface &&
-		//		givenType
-		//			.GetInterfaces()
-		//			.Any(@interface => TypeExtensions.TypesMatch(@interface, genericType))
-		//	)
-		//		return true;
 
-		//	if (TypeExtensions.TypesMatch(givenType, genericType))
-		//		return true;
+        /// <summary>
+        /// Determines whether the given type or interface is assignable to generic type .
+        /// </summary>
+        /// <param name="givenType">Type of the given.</param>
+        /// <param name="genericType">Type of the generic.</param>
+        /// <returns><c>true</c> if [is assignable to generic type] true; otherwise, <c>false</c>.</returns>
+        /// <exception cref="System.ArgumentNullException">type</exception>
+        public static bool IsAssignableToGenericType(this Type givenType, Type genericType)
+        {
+            if (givenType == null)
+                throw new ArgumentNullException("type");
+            if (genericType == null)
+                throw new ArgumentNullException("genericType");
 
-		//	if (givenType.BaseType == null)
-		//		return false;
+            if
+            (
+                genericType.IsInterface &&
+                givenType
+                    .GetInterfaces()
+                    .Any(@interface => TypeExtensions.TypesMatch(@interface, genericType))
+            )
+                return true;
 
-		//	return givenType.BaseType.IsAssignableToGenericType(genericType);
-		//}
+            if (TypeExtensions.TypesMatch(givenType, genericType))
+                return true;
 
-		///// <summary>
-		///// Create a delgate for TryParse Method if T suports the method.
-		///// </summary>
-		///// <typeparam name="T">Type that suports TryParse method</typeparam>
-		///// <param name="type">Type for which the excension is called</param>
-		///// <returns></returns>
-		
-		//private static bool TypesMatch(Type compare, Type to)
-		//{
-		//	if (to.IsAssignableFrom(compare))
-		//		return true;
+            if (givenType.BaseType == null)
+                return false;
 
-		//	if (compare.IsGenericType && to.IsGenericType && to.ContainsGenericParameters)
-		//		compare = compare.GetGenericTypeDefinition();
+            return givenType.BaseType.IsAssignableToGenericType(genericType);
+        }
 
-		//	if (compare.IsGenericType && to.IsGenericType && compare.ContainsGenericParameters)
-		//		to = to.GetGenericTypeDefinition();
+        ///// <summary>
+        ///// Create a delgate for TryParse Method if T suports the method.
+        ///// </summary>
+        ///// <typeparam name="T">Type that suports TryParse method</typeparam>
+        ///// <param name="type">Type for which the excension is called</param>
+        ///// <returns></returns>
 
-		//	return to.IsAssignableFrom(compare);
-		//}
-	}
+        private static bool TypesMatch(Type compare, Type to)
+        {
+            if (to.IsAssignableFrom(compare))
+                return true;
+
+            if (compare.IsGenericType && to.IsGenericType && to.ContainsGenericParameters)
+                compare = compare.GetGenericTypeDefinition();
+
+            if (compare.IsGenericType && to.IsGenericType && compare.ContainsGenericParameters)
+                to = to.GetGenericTypeDefinition();
+
+            return to.IsAssignableFrom(compare);
+        }
+    }
 }

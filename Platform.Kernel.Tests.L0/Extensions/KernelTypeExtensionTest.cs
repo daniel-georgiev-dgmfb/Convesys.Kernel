@@ -1,14 +1,13 @@
 ﻿namespace Platform.Kernel.Tests.L0.Extensions
 {
-	using NUnit.Framework;
-	using Platform.Kernel.Extensions;
-	using Platform.Kernel.Reflection.Extensions;
-	using Platform.Kernel.Tests.L0.MockData;
-	using System;
-	using System.Collections.Generic;
-	using System.Linq;
+    using NUnit.Framework;
+    using Platform.Kernel.Reflection.Extensions;
+    using Platform.Kernel.Tests.L0.MockData;
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
 
-	[TestFixture, Category("TypeExtensions")]
+    [TestFixture, Category("TypeExtensions")]
 	public class KernelTypeExtensionTest
 	{
 		[Test]
@@ -90,7 +89,7 @@
 		[Test]
 		public void IsAssignableToGenericTypeTest_null_type()
 		{
-			Assert.Throws<ArgumentNullException>(() => Kernel.Extensions.TypeExtensions.IsAssignableToGenericType(null, typeof(GenericBaseClass<>)));
+			Assert.Throws<ArgumentNullException>(() => Platform.Kernel.Extensions.TypeExtensions.IsAssignableToGenericType(null, typeof(GenericBaseClass<>)));
 		}
 
 		[Test]
