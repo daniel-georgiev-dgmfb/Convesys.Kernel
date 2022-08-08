@@ -1,0 +1,17 @@
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.Security.deps.json
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.Security.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.Security.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.Reflection.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.Reflection.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\bin\Debug\net6.0\Convesys.Kernel.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.csproj.AssemblyReference.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.csproj.CoreCompileInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.csproj.CopyComplete
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\refint\Convesys.Kernel.Security.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\Convesys.Kernel.Security.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Security\obj\Debug\net6.0\ref\Convesys.Kernel.Security.dll

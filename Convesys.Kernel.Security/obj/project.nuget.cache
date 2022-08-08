@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mOP3hoBIV0YdtFglKDPfAda1r6/MjT3Fim93uCTIMzLSjJeUMS7wCOmDv6EAmeX3nh+Q5fKeJcWVwoRE4A1ILw==",
+  "success": true,
+  "projectFilePath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Security\\Convesys.Kernel.Security.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\convesys.kernel\\1.0.0\\convesys.kernel.1.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\convesys.kernel.reflection\\1.0.0\\convesys.kernel.reflection.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

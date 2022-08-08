@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\bin\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\bin\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\bin\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\obj\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\obj\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\obj\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\obj\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Communication.Protocols\obj\Debug\netstandard2.0\Convesys.Kernel.Communication.Protocols.pdb

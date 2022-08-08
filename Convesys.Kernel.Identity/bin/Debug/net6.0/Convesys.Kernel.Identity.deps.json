@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convesys.Kernel.Identity/1.0.0": {
+        "runtime": {
+          "Convesys.Kernel.Identity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convesys.Kernel.Identity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

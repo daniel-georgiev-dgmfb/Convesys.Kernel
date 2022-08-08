@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "//Qjuj1yrEd1aLcrclMOkRiVnXKSfzKl9xzoxo3Dwr6BVkkzEXO/nFYWtp8pffyrNarHIsNzx3fxcxrRPgvyFg==",
+  "success": true,
+  "projectFilePath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Communication.Common\\Convesys.Kernel.Communication.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\convesys.kernel\\1.0.0\\convesys.kernel.1.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\convesys.kernel.data\\1.0.1\\convesys.kernel.data.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\bin\Debug\netstandard2.1\Convesys.Kernel.Messaging.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\bin\Debug\netstandard2.1\Convesys.Kernel.Messaging.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\bin\Debug\netstandard2.1\Convesys.Kernel.Messaging.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\obj\Debug\netstandard2.1\Convesys.Kernel.Messaging.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\obj\Debug\netstandard2.1\Convesys.Kernel.Messaging.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\obj\Debug\netstandard2.1\Convesys.Kernel.Messaging.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\obj\Debug\netstandard2.1\Convesys.Kernel.Messaging.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Messaging\obj\Debug\netstandard2.1\Convesys.Kernel.Messaging.pdb

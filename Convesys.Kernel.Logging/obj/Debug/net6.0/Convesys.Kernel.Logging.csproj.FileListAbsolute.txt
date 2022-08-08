@@ -1,0 +1,12 @@
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\bin\Debug\net6.0\Convesys.Kernel.Logging.deps.json
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\bin\Debug\net6.0\Convesys.Kernel.Logging.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\bin\Debug\net6.0\Convesys.Kernel.Logging.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.csproj.AssemblyReference.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.csproj.CoreCompileInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\refint\Convesys.Kernel.Logging.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\Convesys.Kernel.Logging.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Logging\obj\Debug\net6.0\ref\Convesys.Kernel.Logging.dll

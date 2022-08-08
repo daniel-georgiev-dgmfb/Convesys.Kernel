@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convesys.Kernel.Authentication/1.0.0": {
+        "dependencies": {
+          "Convesys.Kernel.Data": "1.0.1"
+        },
+        "runtime": {
+          "Convesys.Kernel.Authentication.dll": {}
+        }
+      },
+      "Convesys.Kernel/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Convesys.Kernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Convesys.Kernel.Data/1.0.1": {
+        "dependencies": {
+          "Convesys.Kernel": "1.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Convesys.Kernel.Data.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convesys.Kernel.Authentication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convesys.Kernel/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RTgaUuvsrc0tNMSs3HsuPblg2RE2xBAKx19tqWKa6jvroJltsQ3reN7T7YJ4W93CT5FpUkL6pKSn1kJ+R5nIsA==",
+      "path": "convesys.kernel/1.0.0",
+      "hashPath": "convesys.kernel.1.0.0.nupkg.sha512"
+    },
+    "Convesys.Kernel.Data/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yqWhre8MLKXmjMJWkHfO7wMo7Jy/Vqy9i0LXUiCfxW0eCIOXKXaVeLrhNWx20jHE4ic32I6gi/jcK+pjAFpHNQ==",
+      "path": "convesys.kernel.data/1.0.1",
+      "hashPath": "convesys.kernel.data.1.0.1.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convesys.Kernel.Tenancy/1.0.0": {
+        "dependencies": {
+          "Convesys.Kernel.Web": "1.0.0"
+        },
+        "runtime": {
+          "Convesys.Kernel.Tenancy.dll": {}
+        }
+      },
+      "Convesys.Kernel.Configuration/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Convesys.Kernel.Configuration.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Convesys.Kernel.Web/1.0.0": {
+        "dependencies": {
+          "Convesys.Kernel.Configuration": "1.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Convesys.Kernel.Web.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convesys.Kernel.Tenancy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convesys.Kernel.Configuration/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-40SN7h2QDuj+Nc2utITHyX9rPFhlTIUWmeDSj2YIM/FDOTXj2ADdJXok0EzzcHACBJqbUVlZXHmO24l/ObfNLg==",
+      "path": "convesys.kernel.configuration/1.0.0",
+      "hashPath": "convesys.kernel.configuration.1.0.0.nupkg.sha512"
+    },
+    "Convesys.Kernel.Web/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GokHFp6jqvKwpf8p6ik9S3b/l8zZ21/WpYKXre/QBsNBNdugWaWqJkR4nFC8L33977rwe26PB9PKYrzn+xmMgw==",
+      "path": "convesys.kernel.web/1.0.0",
+      "hashPath": "convesys.kernel.web.1.0.0.nupkg.sha512"
+    }
+  }
+}

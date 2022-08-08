@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime.Tests.L0\\Convesys.Kernel.Mime.Tests.L0.csproj": {}
+  },
+  "projects": {
+    "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime.Tests.L0\\Convesys.Kernel.Mime.Tests.L0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime.Tests.L0\\Convesys.Kernel.Mime.Tests.L0.csproj",
+        "projectName": "Convesys.Kernel.Mime.Tests.L0",
+        "projectPath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime.Tests.L0\\Convesys.Kernel.Mime.Tests.L0.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime.Tests.L0\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3-index/index.json": {},
+          "https://pkgs.dev.azure.com/convesys/_packaging/Convesys.Framework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime\\Convesys.Kernel.Mime.csproj": {
+                "projectPath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime\\Convesys.Kernel.Mime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime\\Convesys.Kernel.Mime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime\\Convesys.Kernel.Mime.csproj",
+        "projectName": "Convesys.Kernel.Mime",
+        "projectPath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime\\Convesys.Kernel.Mime.csproj",
+        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+        "outputPath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\NuGet.Config",
+          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3-index/index.json": {},
+          "https://pkgs.dev.azure.com/convesys/_packaging/Convesys.Framework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

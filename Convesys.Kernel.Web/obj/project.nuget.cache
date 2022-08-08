@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0P9PJV2OUy/SSJ9chmwtfWPhETrCBGipSKPFEcg6MM0wj7gDEv9XPM69oV+DZYZBuZF1rdGqnpYnwXWQzhxdw==",
+  "success": true,
+  "projectFilePath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Web\\Convesys.Kernel.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\convesys.kernel.configuration\\1.0.0\\convesys.kernel.configuration.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

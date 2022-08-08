@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convesys.Kernel.Message.Handling/1.0.0": {
+        "dependencies": {
+          "Convesys.Kernel.Messaging": "1.0.0"
+        },
+        "runtime": {
+          "Convesys.Kernel.Message.Handling.dll": {}
+        }
+      },
+      "Convesys.Kernel.Messaging/1.0.0": {
+        "runtime": {
+          "lib/net6.0/Convesys.Kernel.Messaging.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convesys.Kernel.Message.Handling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convesys.Kernel.Messaging/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/aFoXn5fKXHriqNVLFAt/jS+X1zGEOp4Cox007Ay+BwDsSBv3XNQJK/xrcrv/DqOp9HQzaUUfUqnMgLj3LMTxQ==",
+      "path": "convesys.kernel.messaging/1.0.0",
+      "hashPath": "convesys.kernel.messaging.1.0.0.nupkg.sha512"
+    }
+  }
+}

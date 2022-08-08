@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\bin\Debug\netstandard2.1\Convesys.Kernel.Reflection.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\bin\Debug\netstandard2.1\Convesys.Kernel.Reflection.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\bin\Debug\netstandard2.1\Convesys.Kernel.Reflection.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\obj\Debug\netstandard2.1\Convesys.Kernel.Reflection.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\obj\Debug\netstandard2.1\Convesys.Kernel.Reflection.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\obj\Debug\netstandard2.1\Convesys.Kernel.Reflection.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\obj\Debug\netstandard2.1\Convesys.Kernel.Reflection.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Reflection\obj\Debug\netstandard2.1\Convesys.Kernel.Reflection.pdb

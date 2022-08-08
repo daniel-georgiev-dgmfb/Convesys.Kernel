@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Convesys.Kernel.Transport</id>
+    <version>1.0.0</version>
+    <authors>Convesys.Kernel.Transport</authors>
+    <description>Provide abstraction to implement transport</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Convesys.Kernel.Messaging" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Transport\bin\Debug\net6.0\Convesys.Kernel.Transport.dll" target="lib\net6.0\Convesys.Kernel.Transport.dll" />
+  </files>
+</package>

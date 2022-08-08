@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\bin\Debug\netstandard2.1\Convesys.Kernel.Security.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\bin\Debug\netstandard2.1\Convesys.Kernel.Security.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\bin\Debug\netstandard2.1\Convesys.Kernel.Security.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\obj\Debug\netstandard2.1\Convesys.Kernel.Security.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\obj\Debug\netstandard2.1\Convesys.Kernel.Security.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\obj\Debug\netstandard2.1\Convesys.Kernel.Security.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\obj\Debug\netstandard2.1\Convesys.Kernel.Security.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Security\obj\Debug\netstandard2.1\Convesys.Kernel.Security.pdb

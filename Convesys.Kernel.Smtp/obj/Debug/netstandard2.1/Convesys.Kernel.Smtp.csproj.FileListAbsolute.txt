@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\bin\Debug\netstandard2.1\Convesys.Kernel.Smtp.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\bin\Debug\netstandard2.1\Convesys.Kernel.Smtp.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\bin\Debug\netstandard2.1\Convesys.Kernel.Smtp.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\obj\Debug\netstandard2.1\Convesys.Kernel.Smtp.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\obj\Debug\netstandard2.1\Convesys.Kernel.Smtp.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\obj\Debug\netstandard2.1\Convesys.Kernel.Smtp.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\obj\Debug\netstandard2.1\Convesys.Kernel.Smtp.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Smtp\obj\Debug\netstandard2.1\Convesys.Kernel.Smtp.pdb

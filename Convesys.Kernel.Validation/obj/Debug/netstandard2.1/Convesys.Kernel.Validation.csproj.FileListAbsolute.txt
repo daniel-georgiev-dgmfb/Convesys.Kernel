@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\bin\Debug\netstandard2.1\Convesys.Kernel.Validation.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\bin\Debug\netstandard2.1\Convesys.Kernel.Validation.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\bin\Debug\netstandard2.1\Convesys.Kernel.Validation.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\obj\Debug\netstandard2.1\Convesys.Kernel.Validation.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\obj\Debug\netstandard2.1\Convesys.Kernel.Validation.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\obj\Debug\netstandard2.1\Convesys.Kernel.Validation.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\obj\Debug\netstandard2.1\Convesys.Kernel.Validation.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Validation\obj\Debug\netstandard2.1\Convesys.Kernel.Validation.pdb

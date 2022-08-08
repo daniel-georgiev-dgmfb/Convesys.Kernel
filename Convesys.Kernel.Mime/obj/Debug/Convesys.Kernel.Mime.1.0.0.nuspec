@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Convesys.Kernel.Mime</id>
+    <version>1.0.0</version>
+    <authors>Convesys.Kernel.Mime</authors>
+    <description>Provides abstractions and base functionality for Mime Messages.</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Mime\bin\Debug\net6.0\Convesys.Kernel.Mime.dll" target="lib\net6.0\Convesys.Kernel.Mime.dll" />
+  </files>
+</package>

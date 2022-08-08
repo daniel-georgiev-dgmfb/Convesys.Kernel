@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnnY+HuHyxllY/0gabHrU3mM5O9YTHCOUgrlPgddYl6CFT1ZoxrSRJ0dYXWH6u6S3mV09Ug8MdRDSiVTpcLpKA==",
+  "success": true,
+  "projectFilePath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Message.Handling\\Convesys.Kernel.Message.Handling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\convesys.kernel.messaging\\1.0.0\\convesys.kernel.messaging.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\bin\Debug\netstandard2.1\Convesys.Kernel.Transport.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\bin\Debug\netstandard2.1\Convesys.Kernel.Transport.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\bin\Debug\netstandard2.1\Convesys.Kernel.Transport.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\obj\Debug\netstandard2.1\Convesys.Kernel.Transport.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\obj\Debug\netstandard2.1\Convesys.Kernel.Transport.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\obj\Debug\netstandard2.1\Convesys.Kernel.Transport.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\obj\Debug\netstandard2.1\Convesys.Kernel.Transport.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Transport\obj\Debug\netstandard2.1\Convesys.Kernel.Transport.pdb

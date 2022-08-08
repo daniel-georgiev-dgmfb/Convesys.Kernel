@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Convesys.Kernel.Messaging</id>
+    <version>1.0.0</version>
+    <authors>Convesys.Kernel.Messaging</authors>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <description>Provade base massaging abstraction</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Messaging\bin\Debug\net6.0\Convesys.Kernel.Messaging.dll" target="lib\net6.0\Convesys.Kernel.Messaging.dll" />
+  </files>
+</package>

@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\bin\Debug\netstandard2.1\Convesys.Kernel.Logging.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\bin\Debug\netstandard2.1\Convesys.Kernel.Logging.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\bin\Debug\netstandard2.1\Convesys.Kernel.Logging.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\obj\Debug\netstandard2.1\Convesys.Kernel.Logging.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\obj\Debug\netstandard2.1\Convesys.Kernel.Logging.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\obj\Debug\netstandard2.1\Convesys.Kernel.Logging.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\obj\Debug\netstandard2.1\Convesys.Kernel.Logging.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Logging\obj\Debug\netstandard2.1\Convesys.Kernel.Logging.pdb

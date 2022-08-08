@@ -1,0 +1,7 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\bin\Debug\netstandard2.1\Convesys.Kernel.Authorisation.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\bin\Debug\netstandard2.1\Convesys.Kernel.Authorisation.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\bin\Debug\netstandard2.1\Convesys.Kernel.Authorisation.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\obj\Debug\netstandard2.1\Convesys.Kernel.Authorisation.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\obj\Debug\netstandard2.1\Convesys.Kernel.Authorisation.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\obj\Debug\netstandard2.1\Convesys.Kernel.Authorisation.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authorisation\obj\Debug\netstandard2.1\Convesys.Kernel.Authorisation.pdb

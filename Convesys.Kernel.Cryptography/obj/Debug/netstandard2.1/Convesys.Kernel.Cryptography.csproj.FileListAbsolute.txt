@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\bin\Debug\netstandard2.1\Convesys.Kernel.Cryptography.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\bin\Debug\netstandard2.1\Convesys.Kernel.Cryptography.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\bin\Debug\netstandard2.1\Convesys.Kernel.Cryptography.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\obj\Debug\netstandard2.1\Convesys.Kernel.Cryptography.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\obj\Debug\netstandard2.1\Convesys.Kernel.Cryptography.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\obj\Debug\netstandard2.1\Convesys.Kernel.Cryptography.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\obj\Debug\netstandard2.1\Convesys.Kernel.Cryptography.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Cryptography\obj\Debug\netstandard2.1\Convesys.Kernel.Cryptography.pdb

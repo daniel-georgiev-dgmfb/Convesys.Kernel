@@ -1,0 +1,7 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\bin\Debug\netstandard2.1\Convesys.Kernel.Identity.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\bin\Debug\netstandard2.1\Convesys.Kernel.Identity.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\bin\Debug\netstandard2.1\Convesys.Kernel.Identity.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\obj\Debug\netstandard2.1\Convesys.Kernel.Identity.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\obj\Debug\netstandard2.1\Convesys.Kernel.Identity.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\obj\Debug\netstandard2.1\Convesys.Kernel.Identity.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Identity\obj\Debug\netstandard2.1\Convesys.Kernel.Identity.pdb

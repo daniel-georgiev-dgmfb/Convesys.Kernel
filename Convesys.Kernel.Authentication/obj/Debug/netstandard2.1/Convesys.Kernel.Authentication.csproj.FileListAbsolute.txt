@@ -1,0 +1,8 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\bin\Debug\netstandard2.1\Convesys.Kernel.Authentication.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\bin\Debug\netstandard2.1\Convesys.Kernel.Authentication.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\bin\Debug\netstandard2.1\Convesys.Kernel.Authentication.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\obj\Debug\netstandard2.1\Convesys.Kernel.Authentication.csprojAssemblyReference.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\obj\Debug\netstandard2.1\Convesys.Kernel.Authentication.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\obj\Debug\netstandard2.1\Convesys.Kernel.Authentication.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\obj\Debug\netstandard2.1\Convesys.Kernel.Authentication.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Authentication\obj\Debug\netstandard2.1\Convesys.Kernel.Authentication.pdb

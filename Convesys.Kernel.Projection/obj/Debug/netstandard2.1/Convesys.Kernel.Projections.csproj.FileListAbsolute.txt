@@ -1,0 +1,7 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\bin\Debug\netstandard2.1\Convesys.Kernel.Projections.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\bin\Debug\netstandard2.1\Convesys.Kernel.Projections.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\bin\Debug\netstandard2.1\Convesys.Kernel.Projections.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\obj\Debug\netstandard2.1\Convesys.Kernel.Projections.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\obj\Debug\netstandard2.1\Convesys.Kernel.Projections.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\obj\Debug\netstandard2.1\Convesys.Kernel.Projections.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Projection\obj\Debug\netstandard2.1\Convesys.Kernel.Projections.pdb

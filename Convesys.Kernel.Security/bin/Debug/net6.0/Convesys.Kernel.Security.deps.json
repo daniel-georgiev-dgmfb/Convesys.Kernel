@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Convesys.Kernel.Security/1.0.0": {
+        "dependencies": {
+          "Convesys.Kernel.Reflection": "1.0.0"
+        },
+        "runtime": {
+          "Convesys.Kernel.Security.dll": {}
+        }
+      },
+      "Convesys.Kernel/1.0.0": {
+        "runtime": {
+          "Convesys.Kernel.dll": {}
+        }
+      },
+      "Convesys.Kernel.Reflection/1.0.0": {
+        "dependencies": {
+          "Convesys.Kernel": "1.0.0"
+        },
+        "runtime": {
+          "Convesys.Kernel.Reflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Convesys.Kernel.Security/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convesys.Kernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Convesys.Kernel.Reflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

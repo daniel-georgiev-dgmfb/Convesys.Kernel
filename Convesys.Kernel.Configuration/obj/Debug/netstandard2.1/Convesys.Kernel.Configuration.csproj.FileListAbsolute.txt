@@ -1,0 +1,17 @@
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\bin\Debug\netstandard2.1\Convesys.Kernel.Configuration.deps.json
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\bin\Debug\netstandard2.1\Convesys.Kernel.Configuration.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\bin\Debug\netstandard2.1\Convesys.Kernel.Configuration.pdb
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.dll
+D:\Dan\Software\Convesys\Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\bin\Debug\netstandard2.1\Convesys.Kernel.Configuration.deps.json
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\bin\Debug\netstandard2.1\Convesys.Kernel.Configuration.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\bin\Debug\netstandard2.1\Convesys.Kernel.Configuration.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.csproj.AssemblyReference.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.csproj.CoreCompileInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Configuration\obj\Debug\netstandard2.1\Convesys.Kernel.Configuration.pdb

@@ -1,0 +1,15 @@
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\bin\Debug\net6.0\Convesys.Kernel.Web.deps.json
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\bin\Debug\net6.0\Convesys.Kernel.Web.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\bin\Debug\net6.0\Convesys.Kernel.Web.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\bin\Debug\net6.0\Convesys.Kernel.Configuration.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\bin\Debug\net6.0\Convesys.Kernel.Configuration.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.csproj.AssemblyReference.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.csproj.CoreCompileInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.csproj.CopyComplete
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\refint\Convesys.Kernel.Web.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\Convesys.Kernel.Web.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Web\obj\Debug\net6.0\ref\Convesys.Kernel.Web.dll
