@@ -1,4 +1,4 @@
-﻿namespace Glasswall.Kernel.Web
+﻿namespace Convesys.Kernel.Web
 {
     public interface IFileDocumentRetriever : IResourceRetriever
     {

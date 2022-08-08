@@ -4,7 +4,7 @@ using System.Net;
 using System.Net.Http.Headers;
 using Convesys.Kernel.Configuration;
 
-namespace Glasswall.Kernel.Web
+namespace Convesys.Kernel.Web
 {
     /// <summary>
     /// Provides properties to configure Http client

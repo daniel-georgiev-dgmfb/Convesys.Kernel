@@ -11,8 +11,9 @@ namespace Kernel.Cryptography.DataProtection
         private SymmetricAlgorithm _algoritm;
         private int _saltSize;
         
-        public PasswordEncryptor() :this(new AesCryptoServiceProvider(), 1000, 8)
-        { }
+        public PasswordEncryptor() : this(Aes.Create(), 1000, 8)
+        {
+        }
 
         public PasswordEncryptor(SymmetricAlgorithm aesCryptoServiceProvider, int iterations, int saltSize)
         {
@@ -38,7 +39,7 @@ namespace Kernel.Cryptography.DataProtection
         public byte[] Encrypt(string password, string plainText, out byte[] salt)
         {
             salt = new byte[this._saltSize];
-            using (RNGCryptoServiceProvider rngCsp = new RNGCryptoServiceProvider())
+            using (var rngCsp = RandomNumberGenerator.Create())
             {
                 rngCsp.GetBytes(salt);
             }

@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Glasswall.Kernel.Web
+namespace Convesys.Kernel.Web
 {
     public interface IResourceRetriever
     {

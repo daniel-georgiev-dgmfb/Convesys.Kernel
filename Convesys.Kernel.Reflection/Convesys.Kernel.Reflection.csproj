@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.1</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Provides abstractions and base functionality for Reflection.</Description>
     <Version>1.0.0</Version>
@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Convesys.Kernel" Version="1.0.0" />
+    <ProjectReference Include="..\Convesys.Kernel\Convesys.Kernel.csproj" />
   </ItemGroup>
 
 </Project>

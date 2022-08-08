@@ -1,6 +1,6 @@
 ﻿using System.Net.Http.Headers;
 
-namespace Glasswall.Kernel.Web
+namespace Convesys.Kernel.Web
 {
     public interface IAuthorisationHeaderBuilder
     {

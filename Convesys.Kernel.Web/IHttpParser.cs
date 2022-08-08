@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Glasswall.Kernel.Web
+namespace Convesys.Kernel.Web
 {
     public interface IHttpParser<TModel>
     {
