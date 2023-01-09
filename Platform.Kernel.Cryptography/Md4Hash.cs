@@ -5,9 +5,11 @@ using System.Text;
 
 namespace Platform.Kernel.Cryptography
 {
-    public class Md4Hash
+    public class Md4Hash : IDisposable
     {
-        public string Calculate(string input)
+        private bool _disposed;
+
+        public string ComputeHash(string input)
         {
             // get padded uints from bytes
             List<byte> bytes = Encoding.ASCII.GetBytes(input).ToList();
@@ -46,6 +48,29 @@ namespace Platform.Kernel.Cryptography
             // return hex encoded string
             byte[] outBytes = new[] { a, b, c, d }.SelectMany(BitConverter.GetBytes).ToArray();
             return BitConverter.ToString(outBytes).Replace("-", "").ToLower();
+        }
+
+        public void Dispose()
+        {
+            Dispose(true);
+            GC.SuppressFinalize(this);
+        }
+
+        public void Clear()
+        {
+            (this as IDisposable).Dispose();
+        }
+
+        protected virtual void Dispose(bool disposing)
+        {
+            if (disposing)
+            {
+                // Although we don't have any resources to dispose at this level,
+                // we need to continue to throw ObjectDisposedExceptions from CalculateHash
+                // for compatibility with the .NET Framework.
+                _disposed = true;
+            }
+            return;
         }
     }
 }
