@@ -23,13 +23,13 @@ namespace Kernel.Cryptography
         public static byte[] GenerateSaltValue(uint length = 4)
         {
             var randBytes = new byte[length];
+            RandomNumberGenerator.Fill(randBytes);
+            //using (var rand = new RNGCryptoServiceProvider())
+            //{
 
-            using (var rand = new RNGCryptoServiceProvider())
-            {
-
-                rand.GetBytes(randBytes);
-            }
-
+            //    rand.GetBytes(randBytes);
+            //}
+            
             return randBytes;
         }
 
