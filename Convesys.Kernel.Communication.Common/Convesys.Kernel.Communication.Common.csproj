@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>Provides abstraction for communication</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Convesys.Kernel.Data" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>

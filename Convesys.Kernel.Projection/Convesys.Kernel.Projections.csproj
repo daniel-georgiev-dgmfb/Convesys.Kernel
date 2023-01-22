@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Provides abstractions and base functionality for CQRS.</Description>
+    <Version>1.0.2</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Command\**" />
+    <EmbeddedResource Remove="Command\**" />
+    <None Remove="Command\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Convesys.Kernel.Data" Version="1.0.1" />
+  </ItemGroup>
+
+</Project>
