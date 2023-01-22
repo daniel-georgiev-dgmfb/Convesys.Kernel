@@ -9,3 +9,4 @@ D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Crypt
 D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography\obj\Debug\net5.0\Convesys.Kernel.Cryptography.dll
 D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography\obj\Debug\net5.0\ref\Convesys.Kernel.Cryptography.dll
 D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography\obj\Debug\net5.0\Convesys.Kernel.Cryptography.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography\obj\Debug\net5.0\Convesys.Kernel.Cryptography.csproj.AssemblyReference.cache
