@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Convesys.Kernel.Cryptography.Tools\Convesys.Kernel.Cryptography.Tools.csproj" />
     <ProjectReference Include="..\Convesys.Kernel.Cryptography\Convesys.Kernel.Cryptography.csproj" />
   </ItemGroup>
 

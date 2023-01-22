@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9dSj/XBedqK2k38ROs/k2tuMWVkYokypU1v+JyxHop2vuYmWTHQ4eDq9bVA/dpbfs9kdnHyd2WuNT7nPdgij7A==",
+  "dgSpecHash": "nYVr9jssjQCOvie4IpwOVOyS3pU5TFYnJosaWboXU1XWK345r5zjrAPfS72KT2F8/bHW8PpZSm1qpZkTdiXj2Q==",
   "success": true,
   "projectFilePath": "D:\\Dan\\Software\\Convesys\\Convesys\\Convesys.Platform.Kernel\\Convesys.Kernel.Mime.Tests.L0\\Convesys.Kernel.Mime.Tests.L0.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "C:\\Users\\danie\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\nunit3testadapter\\3.17.0\\nunit3testadapter.3.17.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\danie\\.nuget\\packages\\system.appcontext\\4.1.0\\system.appcontext.4.1.0.nupkg.sha512",

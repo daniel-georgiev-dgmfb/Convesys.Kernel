@@ -24,7 +24,7 @@ namespace Kernel.Cryptography
         {
             var randBytes = new byte[length];
 
-            using (var rand = new RNGCryptoServiceProvider())
+            using (var rand = RandomNumberGenerator.Create())
             {
 
                 rand.GetBytes(randBytes);

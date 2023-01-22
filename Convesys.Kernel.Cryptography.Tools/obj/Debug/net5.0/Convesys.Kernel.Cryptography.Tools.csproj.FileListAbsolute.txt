@@ -1,0 +1,15 @@
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\bin\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.deps.json
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\bin\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\bin\Debug\net5.0\ref\Convesys.Kernel.Cryptography.Tools.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\bin\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\bin\Debug\net5.0\Convesys.Kernel.Cryptography.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\bin\Debug\net5.0\Convesys.Kernel.Cryptography.pdb
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.csproj.AssemblyReference.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.AssemblyInfoInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.AssemblyInfo.cs
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.csproj.CoreCompileInputs.cache
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.csproj.CopyComplete
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\ref\Convesys.Kernel.Cryptography.Tools.dll
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tools\obj\Debug\net5.0\Convesys.Kernel.Cryptography.Tools.pdb

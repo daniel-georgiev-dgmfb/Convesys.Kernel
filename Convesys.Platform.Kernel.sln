@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29926.136
+VisualStudioVersion = 16.0.33214.272
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Logging", "Convesys.Kernel.Logging\Convesys.Kernel.Logging.csproj", "{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}"
 EndProject
@@ -57,7 +57,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Communicati
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Communication.Common", "Convesys.Kernel.Communication.Common\Convesys.Kernel.Communication.Common.csproj", "{12B83224-2ED8-43AD-9922-8F321458FE87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convesys.Kernel.Hardware", "Convesys.Kernel.Hardware\Convesys.Kernel.Hardware.csproj", "{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Hardware", "Convesys.Kernel.Hardware\Convesys.Kernel.Hardware.csproj", "{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Cryptography.Tests.L1", "Convesys.Kernel.Cryptography.Tests.L1\Convesys.Kernel.Cryptography.Tests.L1.csproj", "{0769FDE6-F8E0-43EC-980E-B4AFB5046831}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Cryptography.Tests.L2", "Convesys.Kernel.Cryptography.Tests.L2\Convesys.Kernel.Cryptography.Tests.L2.csproj", "{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convesys.Kernel.Cryptography.Tools", "Convesys.Kernel.Cryptography.Tools\Convesys.Kernel.Cryptography.Tools.csproj", "{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +297,30 @@ Global
 		{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}.Release|x86.ActiveCfg = Release|Any CPU
 		{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}.Release|x86.Build.0 = Release|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Debug|x86.Build.0 = Debug|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Release|x86.ActiveCfg = Release|Any CPU
+		{0769FDE6-F8E0-43EC-980E-B4AFB5046831}.Release|x86.Build.0 = Release|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}.Release|x86.Build.0 = Release|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Debug|x86.Build.0 = Debug|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|x86.ActiveCfg = Release|Any CPU
+		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
