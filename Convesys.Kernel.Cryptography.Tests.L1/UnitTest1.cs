@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 using NUnit;
 
 
@@ -17,6 +18,7 @@ namespace Convesys.Kernel.Cryptography.Tests.L1
         public void fooInParallel()
         {
             var perm = new List<string>();
+            //var perm = new List<string>();
             var stopwatch = new Stopwatch();
             //var source = new char[6] {'1', '2', '3', '4', '5', '6' };
             //var source = new char[6] { 'a', 'b', 'c', 'd', 'e', 'f' };

@@ -1,3 +1,5 @@
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tests.L2\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tests.L2\obj\Debug\net6.0\Convesys.Kernel.Cryptography.Tests.L2.csproj.AssemblyReference.cache
 D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tests.L2\obj\Debug\net6.0\Convesys.Kernel.Cryptography.Tests.L2.GeneratedMSBuildEditorConfig.editorconfig
 D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tests.L2\obj\Debug\net6.0\Convesys.Kernel.Cryptography.Tests.L2.AssemblyInfoInputs.cache
 D:\Dan\Software\Convesys\Convesys\Convesys.Platform.Kernel\Convesys.Kernel.Cryptography.Tests.L2\obj\Debug\net6.0\Convesys.Kernel.Cryptography.Tests.L2.AssemblyInfo.cs
