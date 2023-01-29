@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29926.136
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Platform.Kernel.Logging", "Platform.Kernel.Logging\Platform.Kernel.Logging.csproj", "{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}"
 EndProject
@@ -64,6 +64,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Platform.Kernel.Resilience.Retry", "Platform.Kernel.Resilience.Retry\Platform.Kernel.Resilience.Retry.csproj", "{B8CACEDB-A331-4300-8393-F6FAC7D4E4C9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Platform.Kernel.Resilience.CircuitBreaker", "Platform.Kernel.Resilience.CircuitBreaker\Platform.Kernel.Resilience.CircuitBreaker.csproj", "{46C3370F-3B6D-4B4E-BF90-250654AC052E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform.Kernel.Data.Temporal", "Platform.Kernel.Data.Temporal\Platform.Kernel.Data.Temporal.csproj", "{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,14 @@ Global
 		{46C3370F-3B6D-4B4E-BF90-250654AC052E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{46C3370F-3B6D-4B4E-BF90-250654AC052E}.Release|x86.ActiveCfg = Release|Any CPU
 		{46C3370F-3B6D-4B4E-BF90-250654AC052E}.Release|x86.Build.0 = Release|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{436FCCAB-25C1-4D4A-88B1-A5ADC55562EE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
