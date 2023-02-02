@@ -355,7 +355,7 @@
 
         [Test]
         //[TestCase("Future transaction dates are not supported.", typeof(ArgumentOutOfRangeException))]
-        public void BitemporalCollection_FutureTransaction_ThorwException()
+        public void BitemporalCollection_FutureTransaction_ThrownException()
         {
             var pe1 = new PayElement() { Code = "PE1", Name = "Company Car" };
 
@@ -372,7 +372,7 @@
 
         [Test]
         //[(typeof(ArgumentOutOfRangeException), UserMessage = "Future transaction dates are not supported.")]
-        public void Bitemporal_FutureTransaction_ThorwException()
+        public void Bitemporal_FutureTransaction_ThrownException()
         {
             string id = "dbf61188-4598-4264-a35e-de4970798127";
 
