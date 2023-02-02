@@ -16,4 +16,8 @@
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Platform.Kernel.Data.Temporal\Platform.Kernel.Data.Temporal.csproj" />
+  </ItemGroup>
+
 </Project>
