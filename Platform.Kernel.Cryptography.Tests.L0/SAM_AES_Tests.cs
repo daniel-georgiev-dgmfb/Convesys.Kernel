@@ -35,7 +35,7 @@ namespace Platform.Kernel.Cryptography.Tests.L0
             var file = await File.ReadAllBytesAsync("D:\\Dan\\SAM\\sam");
             using (Aes aesAlg = Aes.Create())
             {
-                var foo = AESCryptoProvider.EncryptStringToBytes_Aes("aaa",aesAlg.Key, aesAlg.IV);
+                var foo = AESCryptoProviderEncryptor.EncryptStringToBytes_Aes("aaa",aesAlg.Key, aesAlg.IV);
             }
             
             var fileEnc = AESAndSigned.EncryptWithPassword(file, "KGS!@#$%");
