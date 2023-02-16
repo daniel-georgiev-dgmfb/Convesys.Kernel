@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33214.272
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Logging", "Convesys.Kernel.Logging\Convesys.Kernel.Logging.csproj", "{FF21AD0B-4D7A-44A5-ADAE-AD85075E37B6}"
 EndProject
@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Cryptograph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Cryptography.Tests.L2", "Convesys.Kernel.Cryptography.Tests.L2\Convesys.Kernel.Cryptography.Tests.L2.csproj", "{1284CB6A-ED32-4F11-9698-B4BCCA6C31CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convesys.Kernel.Cryptography.Tools", "Convesys.Kernel.Cryptography.Tools\Convesys.Kernel.Cryptography.Tools.csproj", "{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convesys.Kernel.Cryptography.Tools", "Convesys.Kernel.Cryptography.Tools\Convesys.Kernel.Cryptography.Tools.csproj", "{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convesys.Kernel.Spatial", "Convesys.Kernel.Spatial\Convesys.Kernel.Spatial.csproj", "{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,14 @@ Global
 		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|x86.ActiveCfg = Release|Any CPU
 		{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}.Release|x86.Build.0 = Release|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Debug|x86.Build.0 = Debug|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|x86.ActiveCfg = Release|Any CPU
+		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
