@@ -4,6 +4,8 @@
     <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Description>Provides abstraction for communication</Description>
+	<AssemblyName>$(MSBuildProjectName.Replace("Convesys", "Twilight"))</AssemblyName>
+	<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace("Convesys","Twilight"))</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

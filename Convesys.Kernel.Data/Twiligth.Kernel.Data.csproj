@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+	<AssemblyName>$(MSBuildProjectName.Replace("Convesys", "Twilight"))</AssemblyName>
+	<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace("Convesys","Twilight"))</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Provides abstractions and base functionality for data repository and ORM.</Description>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.1.0.0</AssemblyVersion>
+    <FileVersion>1.1.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Convesys.Kernel\Twilight.Kernel.csproj" />
+  </ItemGroup>
+
+</Project>

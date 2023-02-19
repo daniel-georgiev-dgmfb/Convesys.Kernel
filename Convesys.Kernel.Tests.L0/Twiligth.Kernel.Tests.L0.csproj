@@ -5,6 +5,8 @@
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
+	<AssemblyName>$(MSBuildProjectName.Replace("Convesys", "Twilight"))</AssemblyName>
+	<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace("Convesys","Twilight"))</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
@@ -14,21 +16,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.2.0" />
-    <PackageReference Include="NUnit" Version="3.13.3" />
-    <PackageReference Include="NUnit3TestAdapter" Version="4.2.1">
+    <PackageReference Include="Convesys.Kernel" Version="1.0.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.6.1" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
     <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="MockData\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Reflection\Convesys.Kernel.Reflection.csproj" />
   </ItemGroup>
 
 </Project>

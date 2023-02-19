@@ -10,12 +10,10 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>Web abstraction</Description>
-    <Version>1.0.0</Version>
+    <Description>Provides abstraction for authorisation</Description>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	<AssemblyName>$(MSBuildProjectName.Replace("Convesys", "Twilight"))</AssemblyName>
+	<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace("Convesys","Twilight"))</RootNamespace>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Configuration\Convesys.Kernel.Configuration.csproj" />
-  </ItemGroup>
 
 </Project>

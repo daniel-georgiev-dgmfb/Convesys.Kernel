@@ -5,17 +5,23 @@
     <SccProvider>SAK</SccProvider>
     <SccAuxPath>SAK</SccAuxPath>
     <SccLocalPath>SAK</SccLocalPath>
+	<AssemblyName>$(MSBuildProjectName.Replace("Convesys", "Twilight"))</AssemblyName>
+	<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace("Convesys","Twilight"))</RootNamespace>
   </PropertyGroup>
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>Provide abstraction to implement transport</Description>
+    <Description>Provides abstractions and base functionality for Reflection.</Description>
     <Version>1.0.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Convesys.Kernel.Messaging" Version="1.0.0" />
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Convesys.Kernel\Twilight.Kernel.csproj" />
   </ItemGroup>
 
 </Project>
