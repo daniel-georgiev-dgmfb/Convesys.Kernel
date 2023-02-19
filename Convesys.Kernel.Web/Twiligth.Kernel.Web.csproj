@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Configuration\Convesys.Kernel.Configuration.csproj" />
+    <ProjectReference Include="..\Convesys.Kernel.Configuration\Twilight.Kernel.Configuration.csproj" />
   </ItemGroup>
 
 </Project>

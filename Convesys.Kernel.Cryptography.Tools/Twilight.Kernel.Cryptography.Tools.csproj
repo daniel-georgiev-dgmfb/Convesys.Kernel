@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Cryptography\Convesys.Kernel.Cryptography.csproj" />
+    <ProjectReference Include="..\Convesys.Kernel.Cryptography\Twilight.Kernel.Cryptography.csproj" />
   </ItemGroup>
 
 </Project>
