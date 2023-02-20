@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using Convesys.Kernel.Extensions;
+using Twilight.Kernel.Extensions;
 using NUnit.Framework;
 
-namespace Convesys.Kernel.Tests.L0.Extensions
+namespace Twilight.Kernel.Tests.L0.Extensions
 {
     [TestFixture, Category("StringExtensions")]
     public class StringExtensionsTests

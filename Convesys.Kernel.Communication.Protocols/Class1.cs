@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Communication.Protocols
+namespace Twilight.Kernel.Communication.Protocols
 {
     public class Class1
     {

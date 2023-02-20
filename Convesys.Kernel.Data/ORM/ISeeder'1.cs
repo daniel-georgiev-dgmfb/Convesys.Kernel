@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Data.ORM
+﻿namespace Twilight.Kernel.Data.ORM
 {
     public interface ISeeder<T> : ISeeder
     {

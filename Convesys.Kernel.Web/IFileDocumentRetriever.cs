@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Web
+﻿namespace Twilight.Kernel.Web
 {
     public interface IFileDocumentRetriever : IResourceRetriever
     {

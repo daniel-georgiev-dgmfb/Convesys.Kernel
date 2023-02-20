@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.Serialization;
 
-namespace Convesys.Kernel.Exceptions
+namespace Twilight.Kernel.Exceptions
 {
     /// <summary>
 	/// Base class for custom exception

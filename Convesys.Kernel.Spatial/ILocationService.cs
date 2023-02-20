@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Spatial
+﻿namespace Twilight.Kernel.Spatial
 {
     public interface ILocationService
     {

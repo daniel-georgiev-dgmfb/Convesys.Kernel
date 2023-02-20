@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Convesys.Kernel.Mime
+namespace Twilight.Kernel.Mime
 {
     public class Mailbox
     {

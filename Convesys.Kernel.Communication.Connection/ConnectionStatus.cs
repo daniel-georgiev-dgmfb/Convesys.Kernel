@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Communication.Connection
+﻿namespace Twilight.Kernel.Communication.Connection
 {
     public enum ConnectionStatus : byte
 	{

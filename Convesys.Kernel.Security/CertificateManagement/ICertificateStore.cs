@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-namespace Convesys.Kernel.Security.CertificateManagement
+namespace Twilight.Kernel.Security.CertificateManagement
 {
     public interface ICertificateStore
     {

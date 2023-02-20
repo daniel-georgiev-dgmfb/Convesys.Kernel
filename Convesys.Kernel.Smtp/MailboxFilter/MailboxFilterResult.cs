@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Smtp.MailboxFilter
+﻿namespace Twilight.Kernel.Smtp.MailboxFilter
 {
     public enum MailboxFilterResult
     {

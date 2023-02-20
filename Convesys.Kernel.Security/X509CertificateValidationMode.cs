@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Security.Security
+﻿namespace Twilight.Kernel.Security.Security
 {
     public enum X509CertificateValidationMode
     {

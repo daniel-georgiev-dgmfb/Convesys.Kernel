@@ -1,10 +1,10 @@
-﻿namespace Convesys.Kernel.Tests.L0.Extensions
+﻿namespace Twilight.Kernel.Tests.L0.Extensions
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using Convesys.Kernel.Extensions;
-    using Convesys.Kernel.Tests.L0.MockData;
+    using Twilight.Kernel.Extensions;
+    using Twilight.Kernel.Tests.L0.MockData;
     using NUnit.Framework;
 
     [TestFixture, Category("TypeExtensions")]

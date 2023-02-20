@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Authorisation
+﻿namespace Twilight.Kernel.Authorisation
 {
     public interface IAuthorizationServerOptionsProvider<TOptions>
     {

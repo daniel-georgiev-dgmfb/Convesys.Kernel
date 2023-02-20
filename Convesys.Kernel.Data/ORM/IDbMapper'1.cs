@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Data.ORM
+namespace Twilight.Kernel.Data.ORM
 {
     public interface IDbMapper<TBuilder>
     {

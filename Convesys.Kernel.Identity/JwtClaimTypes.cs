@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Identity
+﻿namespace Twilight.Kernel.Identity
 {
     public static class JwtClaimTypes
     {

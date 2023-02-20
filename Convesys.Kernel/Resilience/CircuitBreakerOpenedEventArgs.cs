@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Resilience
+namespace Twilight.Kernel.Resilience
 {
     public class CircuitBreakerOpenedEventArgs
     {

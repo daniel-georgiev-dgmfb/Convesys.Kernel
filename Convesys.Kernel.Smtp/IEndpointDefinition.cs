@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface IEndpointDefinition
     {

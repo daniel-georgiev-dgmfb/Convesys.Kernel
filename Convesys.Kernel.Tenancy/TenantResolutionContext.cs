@@ -1,8 +1,8 @@
-﻿using Convesys.Kernel.Web;
-using Convesys.Kernel.Web.Authorisation;
+﻿using Twilight.Kernel.Web;
+using Twilight.Kernel.Web.Authorisation;
 using System;
 
-namespace Convesys.Kernel.Tenancy
+namespace Twilight.Kernel.Tenancy
 {
     /// <summary>
     /// Represents the context of the tenant resolution

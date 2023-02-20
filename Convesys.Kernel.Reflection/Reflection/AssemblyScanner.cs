@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 
-namespace Convesys.Kernel.Reflection.Reflection
+namespace Twilight.Kernel.Reflection.Reflection
 {
     /// <summary>
 	/// Scans for available assemblies and excludes irrelevant onces

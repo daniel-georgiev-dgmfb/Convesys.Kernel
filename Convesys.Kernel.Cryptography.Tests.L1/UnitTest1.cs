@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using NUnit;
 
 
-namespace Convesys.Kernel.Cryptography.Tests.L1
+namespace Twilight.Kernel.Cryptography.Tests.L1
 {
     [TestFixture]
     public class PasswordEncryptorTests1

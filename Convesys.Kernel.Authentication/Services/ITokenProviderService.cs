@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Convesys.Kernel.Data;
+using Twilight.Kernel.Data;
 
-namespace Convesys.Kernel.Authentication.Services
+namespace Twilight.Kernel.Authentication.Services
 {
     public interface ITokenProviderService<TUser, TKey> where TUser : class, IHasID
     {

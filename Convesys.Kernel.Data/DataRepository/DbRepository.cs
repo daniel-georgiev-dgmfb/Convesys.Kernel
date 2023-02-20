@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
-using Convesys.Kernel.Data.ORM;
-using Convesys.Kernel.Providers;
+using Twilight.Kernel.Data.ORM;
+using Twilight.Kernel.Providers;
 
-namespace Convesys.Kernel.Data.DataRepository
+namespace Twilight.Kernel.Data.DataRepository
 {
     public class DbRepository<TEntity> : IDbRepository<TEntity>
 		where TEntity : BaseModel, new()

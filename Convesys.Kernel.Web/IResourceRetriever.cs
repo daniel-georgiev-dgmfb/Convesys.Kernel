@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Web
+namespace Twilight.Kernel.Web
 {
     public interface IResourceRetriever
     {

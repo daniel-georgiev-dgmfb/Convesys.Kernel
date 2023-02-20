@@ -5,9 +5,9 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 using System.Threading.Tasks;
-using Convesys.Kernel.Reflection.Reflection;
+using Twilight.Kernel.Reflection.Reflection;
 
-namespace Convesys.Kernel.Reflection.Extensions
+namespace Twilight.Kernel.Reflection.Extensions
 {
     public static class TypeExtensions
 	{

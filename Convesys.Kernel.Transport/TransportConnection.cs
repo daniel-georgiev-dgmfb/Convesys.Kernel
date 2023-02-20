@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Transport
+﻿namespace Twilight.Kernel.Transport
 {
     public class TransportConnection
     {

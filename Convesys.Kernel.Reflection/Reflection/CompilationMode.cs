@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Reflection.Reflection
+﻿namespace Twilight.Kernel.Reflection.Reflection
 {
 
 	public enum CompilationMode

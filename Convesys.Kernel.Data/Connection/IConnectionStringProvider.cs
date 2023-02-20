@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Data.Connection
+﻿namespace Twilight.Kernel.Data.Connection
 {
     /// <summary>
     ///     Interface IConnectionStringProvider. Builds connection string for database provider

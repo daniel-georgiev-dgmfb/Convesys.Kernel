@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Adaptor
+﻿namespace Twilight.Kernel.Adaptor
 {
     public interface IAdaptor<in TAdaptee, out TTarget>
     {

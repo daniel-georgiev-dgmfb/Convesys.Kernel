@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Storage
+namespace Twilight.Kernel.Storage
 {
     public interface IStorageConnection<TObject, TIdentifier> where TObject : class
     {

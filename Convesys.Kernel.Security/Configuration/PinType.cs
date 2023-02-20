@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Security.Configuration
+﻿namespace Twilight.Kernel.Security.Configuration
 {
     public enum PinType
     {

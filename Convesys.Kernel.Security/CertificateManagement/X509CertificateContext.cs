@@ -2,7 +2,7 @@
 using System.Text;
 using System.Linq;
 
-namespace Convesys.Kernel.Security.CertificateManagement
+namespace Twilight.Kernel.Security.CertificateManagement
 {
     public class X509CertificateContext : CertificateContext
     {

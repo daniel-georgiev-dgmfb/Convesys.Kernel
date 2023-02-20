@@ -1,7 +1,7 @@
 ﻿using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Authentication
+namespace Twilight.Kernel.Authentication
 {
     public interface IClaimsIdentityMapper<TResult>
     {

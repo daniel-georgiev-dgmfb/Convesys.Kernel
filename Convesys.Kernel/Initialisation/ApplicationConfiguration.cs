@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Convesys.Kernel.DependencyResolver;
+using Twilight.Kernel.DependencyResolver;
 
-namespace Convesys.Kernel.Initialisation
+namespace Twilight.Kernel.Initialisation
 {
     /// <summary>
     /// Global configuration file.

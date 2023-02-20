@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Web.Authorisation
+namespace Twilight.Kernel.Web.Authorisation
 {
     public interface IBearerTokenParser
     {

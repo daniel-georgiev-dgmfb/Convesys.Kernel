@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Smtp.IO
+namespace Twilight.Kernel.Smtp.IO
 {
     public interface INetworkClient : IDisposable
     {

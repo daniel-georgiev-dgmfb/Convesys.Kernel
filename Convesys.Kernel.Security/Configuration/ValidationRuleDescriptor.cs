@@ -1,6 +1,6 @@
-﻿using Convesys.Kernel.Reflection;
+﻿using Twilight.Kernel.Reflection;
 
-namespace Convesys.Kernel.Security.Configuration
+namespace Twilight.Kernel.Security.Configuration
 {
     public class ValidationRuleDescriptor : TypeDescriptor
     {

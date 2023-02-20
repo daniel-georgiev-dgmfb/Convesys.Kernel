@@ -1,8 +1,8 @@
 ﻿using System.Security;
 using System.Security.Cryptography.X509Certificates;
-using Convesys.Kernel.Security.Validation;
+using Twilight.Kernel.Security.Validation;
 
-namespace Convesys.Kernel.Security.CertificateManagement
+namespace Twilight.Kernel.Security.CertificateManagement
 {
     public interface ICertificateManager
     {

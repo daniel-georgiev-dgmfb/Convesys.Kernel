@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Smtp.Text
+﻿namespace Twilight.Kernel.Smtp.Text
 {
     public enum TokenKind
     {

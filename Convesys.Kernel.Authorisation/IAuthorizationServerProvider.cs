@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Convesys.Kernel.Authorisation.Contexts;
+using Twilight.Kernel.Authorisation.Contexts;
 
-namespace Convesys.Kernel.Authorisation
+namespace Twilight.Kernel.Authorisation
 {
     public interface IAuthorizationServerProvider
     {

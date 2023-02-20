@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Resilience
+namespace Twilight.Kernel.Resilience
 {
     public interface ICircuitBreaker
     {

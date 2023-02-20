@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface ISmtpServer
     {

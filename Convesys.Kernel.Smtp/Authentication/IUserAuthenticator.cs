@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Smtp.Authentication
+namespace Twilight.Kernel.Smtp.Authentication
 {
     public interface IUserAuthenticator
     {

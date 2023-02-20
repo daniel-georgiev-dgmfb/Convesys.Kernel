@@ -2,7 +2,7 @@
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Authentication.AuthenticatonManagers
+namespace Twilight.Kernel.Authentication.AuthenticatonManagers
 {
     public interface ISSOAuthenticationManager
     {

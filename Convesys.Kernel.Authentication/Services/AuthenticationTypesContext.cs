@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Convesys.Kernel.Authentication.Services
+namespace Twilight.Kernel.Authentication.Services
 {
     public class AuthenticationTypesContext : AuthenicationContext
     {

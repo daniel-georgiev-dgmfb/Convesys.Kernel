@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Authorisation.AuthenticationProvider
+namespace Twilight.Kernel.Authorisation.AuthenticationProvider
 {
     public interface IAuthenticationProvider<TContext>
     {

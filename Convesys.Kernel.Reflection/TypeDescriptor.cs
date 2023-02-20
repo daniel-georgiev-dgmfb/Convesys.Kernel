@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Linq;
-using Convesys.Kernel.Reflection.Reflection;
+using Twilight.Kernel.Reflection.Reflection;
 
-namespace Convesys.Kernel.Reflection
+namespace Twilight.Kernel.Reflection
 {
     public class TypeDescriptor
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Security.Claims;
 
-namespace Convesys.Kernel.Authentication.Services
+namespace Twilight.Kernel.Authentication.Services
 {
     public class AuthenticationResult
     {

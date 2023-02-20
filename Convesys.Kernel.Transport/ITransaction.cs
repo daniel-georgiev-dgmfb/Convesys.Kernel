@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Transport
+namespace Twilight.Kernel.Transport
 {
     public interface ITransaction : IDisposable
     {

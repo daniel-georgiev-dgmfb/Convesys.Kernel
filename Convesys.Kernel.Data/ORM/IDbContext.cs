@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Data.ORM
+namespace Twilight.Kernel.Data.ORM
 {
     /// <summary>
     /// Exposed methods to interacts with database context

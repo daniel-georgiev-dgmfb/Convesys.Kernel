@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Smtp.Protocol
+﻿namespace Twilight.Kernel.Smtp.Protocol
 {
     public enum SmtpReplyCode
     {

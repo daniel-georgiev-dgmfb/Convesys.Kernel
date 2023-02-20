@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
-using Convesys.Kernel.Mime;
+using Twilight.Kernel.Mime;
 
-namespace Convesys.Kernel.Mime.Tests.L0
+namespace Twilight.Kernel.Mime.Tests.L0
 {
     [TestFixture]
     [Category("L0")]

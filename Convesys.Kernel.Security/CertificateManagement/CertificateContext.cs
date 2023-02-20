@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Convesys.Kernel.Security.CertificateManagement
+namespace Twilight.Kernel.Security.CertificateManagement
 {
     public class CertificateContext
     {

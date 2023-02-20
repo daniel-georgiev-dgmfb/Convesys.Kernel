@@ -1,7 +1,7 @@
 ﻿using System;
-using Convesys.Kernel.Data.DataRepository;
+using Twilight.Kernel.Data.DataRepository;
 
-namespace Convesys.Kernel.Data.ORM
+namespace Twilight.Kernel.Data.ORM
 {
     /// <summary>
     ///  Database repository

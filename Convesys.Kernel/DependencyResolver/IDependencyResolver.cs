@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.DependencyResolver
+namespace Twilight.Kernel.DependencyResolver
 {
     /// <summary>
 	/// DependencyResolver members

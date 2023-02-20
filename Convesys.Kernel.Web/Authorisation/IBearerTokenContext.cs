@@ -1,7 +1,7 @@
 ﻿using System.Net.Http;
 using System.Net.Http.Headers;
 
-namespace Convesys.Kernel.Web.Authorisation
+namespace Twilight.Kernel.Web.Authorisation
 {
     public interface IBearerTokenContext
     {

@@ -1,6 +1,6 @@
-﻿using Convesys.Kernel.Mime;
+﻿using Twilight.Kernel.Mime;
 
-namespace Convesys.Kernel.Smtp.Exceptions
+namespace Twilight.Kernel.Smtp.Exceptions
 {
     public class RecipientError
     {

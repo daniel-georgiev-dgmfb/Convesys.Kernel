@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Smtp
+﻿namespace Twilight.Kernel.Smtp
 {
     public class RelayEndpoint
     {

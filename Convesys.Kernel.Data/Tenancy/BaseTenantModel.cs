@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Data.Tenancy
+namespace Twilight.Kernel.Data.Tenancy
 {
     public abstract class BaseTenantModel : BaseModel
     {

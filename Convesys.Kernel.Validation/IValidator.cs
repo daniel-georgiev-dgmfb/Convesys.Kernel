@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Validation
+namespace Twilight.Kernel.Validation
 {
     public interface IValidator
     {

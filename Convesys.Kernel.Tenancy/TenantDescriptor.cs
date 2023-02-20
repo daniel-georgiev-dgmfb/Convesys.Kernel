@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Specialized;
 
-namespace Convesys.Kernel.Tenancy
+namespace Twilight.Kernel.Tenancy
 {
     /// <summary>
     /// Descriptor for a given tenant

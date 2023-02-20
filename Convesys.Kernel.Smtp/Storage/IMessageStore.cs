@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Smtp.Storage
+namespace Twilight.Kernel.Smtp.Storage
 {
     public interface IMessageStore
     {

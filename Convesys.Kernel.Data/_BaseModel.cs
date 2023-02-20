@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Data
+namespace Twilight.Kernel.Data
 {
     public abstract class BaseModel : IHasID<Guid>, IEquatable<BaseModel>
 	{

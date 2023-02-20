@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Convesys.Kernel.Mime
+namespace Twilight.Kernel.Mime
 {
     public interface IMimeMessage
     {

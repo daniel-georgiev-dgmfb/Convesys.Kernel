@@ -1,7 +1,7 @@
 ﻿using System.Security.Cryptography.X509Certificates;
-using Convesys.Kernel.Security.Security;
+using Twilight.Kernel.Security.Security;
 
-namespace Convesys.Kernel.Security.Validation
+namespace Twilight.Kernel.Security.Validation
 {
     //
     // Summary:

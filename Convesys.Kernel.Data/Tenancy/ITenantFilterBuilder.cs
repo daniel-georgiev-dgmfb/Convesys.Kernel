@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Convesys.Kernel.Data.Tenancy
+namespace Twilight.Kernel.Data.Tenancy
 {
     public interface ITenantFilterBuilder
     {

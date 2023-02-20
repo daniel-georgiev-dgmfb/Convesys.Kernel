@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Initialisation
+﻿namespace Twilight.Kernel.Initialisation
 {
     public interface IAutoRegisterAsSingleton : IAutoRegister
     {

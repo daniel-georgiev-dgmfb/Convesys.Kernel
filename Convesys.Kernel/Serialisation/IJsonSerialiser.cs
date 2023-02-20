@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Serialisation
+namespace Twilight.Kernel.Serialisation
 {
     public interface IJsonSerialiser : ISerialiser
     {

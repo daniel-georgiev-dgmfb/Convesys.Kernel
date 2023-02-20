@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Security.SecretManagement
+namespace Twilight.Kernel.Security.SecretManagement
 {
     public class SecretContext
     {

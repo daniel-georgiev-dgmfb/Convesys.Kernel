@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Convesys.Kernel.Mime;
+using Twilight.Kernel.Mime;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface IMessageTransaction
     {

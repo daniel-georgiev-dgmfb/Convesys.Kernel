@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Authorisation
+namespace Twilight.Kernel.Authorisation
 {
     public interface ITokenGrantService<TContext>
     {

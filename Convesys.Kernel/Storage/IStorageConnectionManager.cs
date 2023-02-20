@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Storage
+namespace Twilight.Kernel.Storage
 {
     public interface IStorageConnectionManager<TClient> where TClient : class
     {

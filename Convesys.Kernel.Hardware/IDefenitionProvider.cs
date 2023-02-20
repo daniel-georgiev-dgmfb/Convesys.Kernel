@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Communication.Common
+namespace Twilight.Kernel.Communication.Common
 {
     public interface IDefinitionProvider<TDefinition> where TDefinition : BaseDefinition
     {

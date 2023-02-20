@@ -3,7 +3,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace Convesys.Kernel.Web
+namespace Twilight.Kernel.Web
 {
     public static class Utility
     {

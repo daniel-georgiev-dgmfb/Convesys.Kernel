@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Smtp.Validation
+namespace Twilight.Kernel.Smtp.Validation
 {
     public interface IMessageValidator
     {

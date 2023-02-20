@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Resolvers
+namespace Twilight.Kernel.Resolvers
 {
     public interface ITypeResolver
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Convesys.Kernel.Communication.Common
+namespace Twilight.Kernel.Communication.Common
 {
     public class DefinitionContext<TDefenition>
     {

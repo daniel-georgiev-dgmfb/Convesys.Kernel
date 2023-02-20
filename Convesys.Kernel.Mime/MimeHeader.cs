@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Mime
+namespace Twilight.Kernel.Mime
 {
     public class MimeHeader
     {

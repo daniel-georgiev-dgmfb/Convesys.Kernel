@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace Convesys.Kernel.Reflection.Reflection
+namespace Twilight.Kernel.Reflection.Reflection
 {
     /// <summary>
 	/// Build based on reference http://stackoverflow.com/questions/270531/how-to-determine-if-a-net-assembly-was-built-for-x86-or-x64 and others regarding it

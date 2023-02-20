@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Reflection;
 
-namespace Convesys.Kernel.Reflection.Reflection
+namespace Twilight.Kernel.Reflection.Reflection
 {
     public class ReflectionHelper
 	{

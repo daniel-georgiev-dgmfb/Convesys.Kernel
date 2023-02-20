@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Convesys.Kernel.Validation
+namespace Twilight.Kernel.Validation
 {
     public interface IValidationRuleFactory
     {

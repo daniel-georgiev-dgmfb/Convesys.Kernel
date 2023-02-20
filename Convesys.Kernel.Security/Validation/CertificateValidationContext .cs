@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography.X509Certificates;
 
-namespace Convesys.Kernel.Security.Validation
+namespace Twilight.Kernel.Security.Validation
 {
     public class CertificateValidationContext
     {

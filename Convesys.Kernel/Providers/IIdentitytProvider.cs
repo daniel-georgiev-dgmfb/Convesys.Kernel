@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Convesys.Kernel.Providers
+namespace Twilight.Kernel.Providers
 {
 	public interface IIdentitytProvider<T> where T : struct
 	{

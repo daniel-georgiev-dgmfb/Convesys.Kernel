@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Caching
+namespace Twilight.Kernel.Caching
 {
 	public interface ICacheEntryOptions
 	{

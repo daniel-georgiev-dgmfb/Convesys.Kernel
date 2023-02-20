@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Convesys.Kernel.Authorisation.Contexts
+namespace Twilight.Kernel.Authorisation.Contexts
 {
     public interface ITokenEndpointResponseContext
     {

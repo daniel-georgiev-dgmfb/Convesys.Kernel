@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 
-namespace Convesys.Kernel.Mime.Tests.L0
+namespace Twilight.Kernel.Mime.Tests.L0
 {
     [TestFixture]
     [Category("L0")]

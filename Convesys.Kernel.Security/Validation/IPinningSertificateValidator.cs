@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Security.Validation
+namespace Twilight.Kernel.Security.Validation
 {
     public interface IPinningSertificateValidator
     {

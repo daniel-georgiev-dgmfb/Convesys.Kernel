@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Authentication
+namespace Twilight.Kernel.Authentication
 {
     public interface ICredentialsProvider<T>
     {

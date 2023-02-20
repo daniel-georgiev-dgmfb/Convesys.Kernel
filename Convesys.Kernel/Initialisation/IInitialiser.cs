@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Threading.Tasks;
-using Convesys.Kernel.DependencyResolver;
+using Twilight.Kernel.DependencyResolver;
 
-namespace Convesys.Kernel.Initialisation
+namespace Twilight.Kernel.Initialisation
 {
     /// <summary>
     /// Initialises the server

@@ -1,7 +1,7 @@
 ﻿using System.Security;
-using Convesys.Kernel.Extensions;
+using Twilight.Kernel.Extensions;
 
-namespace Convesys.Kernel.Authentication
+namespace Twilight.Kernel.Authentication
 {
     public class AuthenicationContext
     {

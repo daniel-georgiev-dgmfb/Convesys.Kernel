@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Convesys.Kernel.Communication.Common
+namespace Twilight.Kernel.Communication.Common
 {
 	public abstract partial class BaseDefinition : TypeDefinition
 	{

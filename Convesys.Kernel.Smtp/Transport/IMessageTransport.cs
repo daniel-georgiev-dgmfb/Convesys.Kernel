@@ -1,8 +1,8 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
-using Convesys.Kernel.Smtp.Protocol;
+using Twilight.Kernel.Smtp.Protocol;
 
-namespace Convesys.Kernel.Smtp.Transport
+namespace Twilight.Kernel.Smtp.Transport
 {
     public interface IMessageTransport
     {

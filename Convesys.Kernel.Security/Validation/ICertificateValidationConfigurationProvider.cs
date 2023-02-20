@@ -1,7 +1,7 @@
 ﻿using System;
-using Convesys.Kernel.Security.Configuration;
+using Twilight.Kernel.Security.Configuration;
 
-namespace Convesys.Kernel.Security.Validation
+namespace Twilight.Kernel.Security.Validation
 {
     public interface ICertificateValidationConfigurationProvider : IDisposable
     {

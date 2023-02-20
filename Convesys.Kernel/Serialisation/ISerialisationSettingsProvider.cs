@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Serialisation
+﻿namespace Twilight.Kernel.Serialisation
 {
     public interface ISerialisationSettingsProvider<TSettings>
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace Convesys.Kernel.Smtp.Text
+namespace Twilight.Kernel.Smtp.Text
 {
     [DebuggerDisplay("[{Kind}] {Text}")]
     public struct Token

@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Logging
+﻿namespace Twilight.Kernel.Logging
 {
     public struct EventId
     {

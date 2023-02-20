@@ -1,9 +1,9 @@
 using System.Threading;
 using System.Threading.Tasks;
-using Convesys.Kernel.Mime;
-using Convesys.Kernel.Smtp.IO;
+using Twilight.Kernel.Mime;
+using Twilight.Kernel.Smtp.IO;
 
-namespace Convesys.Kernel.Smtp.Mime
+namespace Twilight.Kernel.Smtp.Mime
 {
     public interface IMimeMessageDeserializer
     {

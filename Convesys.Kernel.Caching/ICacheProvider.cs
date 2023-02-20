@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Caching
+﻿namespace Twilight.Kernel.Caching
 {
 	using System;
 	using System.Collections.Generic;

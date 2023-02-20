@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Storage
+﻿namespace Twilight.Kernel.Storage
 {
     public interface IStorageConfiguration
     {

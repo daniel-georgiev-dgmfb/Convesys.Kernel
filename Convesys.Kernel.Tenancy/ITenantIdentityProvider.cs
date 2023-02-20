@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Tenancy
+namespace Twilight.Kernel.Tenancy
 {
     /// <summary>
     /// Resolve tenant identifier from for the current request

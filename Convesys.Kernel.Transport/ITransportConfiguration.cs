@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Convesys.Kernel.Transport
+namespace Twilight.Kernel.Transport
 {
     public interface ITransportConfiguration
     {

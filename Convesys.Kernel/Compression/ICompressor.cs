@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Compression
+namespace Twilight.Kernel.Compression
 {
     public interface ICompressor
     {

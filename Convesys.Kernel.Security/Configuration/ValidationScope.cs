@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Security.Configuration
+namespace Twilight.Kernel.Security.Configuration
 {
     [Flags]
     public enum ValidationScope

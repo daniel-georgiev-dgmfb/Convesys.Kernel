@@ -1,6 +1,6 @@
 using System;
 
-namespace Convesys.Kernel.Smtp.Text
+namespace Twilight.Kernel.Smtp.Text
 {
     public interface ITokenEnumeratorCheckpoint : IDisposable
     {

@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Cryptography.Tests.L2
+namespace Twilight.Kernel.Cryptography.Tests.L2
 {
     public class Tests
     {

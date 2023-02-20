@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Messaging
+namespace Twilight.Kernel.Messaging
 {
     [Serializable]
     public abstract class Message

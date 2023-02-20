@@ -4,7 +4,7 @@
 //   </copyright>
 //  ----------------------------------------------------------------------- 
 
-namespace Convesys.Kernel.Data.Reference
+namespace Twilight.Kernel.Data.Reference
 {
     public class BaseReferenceModel : BaseModel
     {

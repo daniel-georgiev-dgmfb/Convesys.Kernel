@@ -9,10 +9,10 @@ using System.Diagnostics;
 using Kernel.Cryptography;
 using System.Security.Cryptography;
 using System.Threading.Tasks;
-using Convesys.Kernel.Cryptography.Tools;
+using Twilight.Kernel.Cryptography.Tools;
 using System.Threading;
 
-namespace Convesys.Kernel.Cryptography.Tests.L0
+namespace Twilight.Kernel.Cryptography.Tests.L0
 {
     [TestFixture]
     public class PasswordEncryptorTests1

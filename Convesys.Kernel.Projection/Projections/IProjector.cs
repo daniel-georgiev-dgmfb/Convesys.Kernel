@@ -1,9 +1,9 @@
-﻿using Convesys.Kernel.Data;
+﻿using Twilight.Kernel.Data;
 using System;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace Convesys.Kernel.Projections
+namespace Twilight.Kernel.Projections
 {
     public interface IProjector<TEntity> : IDisposable where TEntity : BaseModel
     {

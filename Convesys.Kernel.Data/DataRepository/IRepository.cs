@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Data.DataRepository
+namespace Twilight.Kernel.Data.DataRepository
 {
 	public interface IRepository<TID> : IDisposable
         where TID : struct

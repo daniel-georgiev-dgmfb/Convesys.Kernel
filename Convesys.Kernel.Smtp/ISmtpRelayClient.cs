@@ -4,10 +4,10 @@ using System.Net;
 using System.Net.Security;
 using System.Threading;
 using System.Threading.Tasks;
-using Convesys.Kernel.Mime;
-using Convesys.Kernel.Smtp.Exceptions;
+using Twilight.Kernel.Mime;
+using Twilight.Kernel.Smtp.Exceptions;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface ISmtpRelayClient : IDisposable
     {

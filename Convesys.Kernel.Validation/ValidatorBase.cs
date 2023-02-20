@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Convesys.Kernel.Validation
+namespace Twilight.Kernel.Validation
 {
     public abstract class ValidatorBase<T> where T : class
     {

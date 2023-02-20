@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 using System.Security;
 using System.Text;
 
-namespace Convesys.Kernel.Extensions
+namespace Twilight.Kernel.Extensions
 {
     /// <summary>
     /// String extensions

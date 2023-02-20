@@ -2,9 +2,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Convesys.Kernel.Mime;
+using Twilight.Kernel.Mime;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface IMessageRelayer : IDisposable
     {

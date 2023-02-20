@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Messaging.Dispatching
+namespace Twilight.Kernel.Messaging.Dispatching
 {
     public interface IMessageDispatcher
     {

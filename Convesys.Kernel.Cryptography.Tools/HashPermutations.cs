@@ -5,7 +5,7 @@ using System.Diagnostics;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace Convesys.Kernel.Cryptography.Tools
+namespace Twilight.Kernel.Cryptography.Tools
 {
     public class HashPermutations
     {

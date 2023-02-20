@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Smtp.Protocol
+namespace Twilight.Kernel.Smtp.Protocol
 {
     public interface ISmtpCommand
     {

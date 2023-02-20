@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Convesys.Kernel.Data.DataRepository
+namespace Twilight.Kernel.Data.DataRepository
 {
 	public interface IReadOnlyRepository<T, TID> : IRepository<TID>
 		where T : class, IHasID<TID>

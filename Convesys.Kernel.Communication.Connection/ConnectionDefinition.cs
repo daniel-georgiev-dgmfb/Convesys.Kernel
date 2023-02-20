@@ -1,7 +1,7 @@
-﻿using Convesys.Kernel.Communication.Common;
+﻿using Twilight.Kernel.Communication.Common;
 using System;
 
-namespace Convesys.Kernel.Communication.Connection
+namespace Twilight.Kernel.Communication.Connection
 {
     public class ConnectionDefinition : BaseDefinition, ICloneable, IEquatable<ConnectionDefinition>
     {

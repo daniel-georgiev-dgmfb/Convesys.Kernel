@@ -1,8 +1,8 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
-using Convesys.Kernel.Mime;
+using Twilight.Kernel.Mime;
 
-namespace Convesys.Kernel.Smtp.MailboxFilter
+namespace Twilight.Kernel.Smtp.MailboxFilter
 {
     public interface IMailboxFilter
     {

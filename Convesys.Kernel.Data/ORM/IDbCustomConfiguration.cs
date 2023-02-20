@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Convesys.Kernel.Data.Tenancy;
+using Twilight.Kernel.Data.Tenancy;
 
-namespace Convesys.Kernel.Data.ORM
+namespace Twilight.Kernel.Data.ORM
 {
     public interface IDbCustomConfiguration
     {

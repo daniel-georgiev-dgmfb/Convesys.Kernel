@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Authentication
+﻿namespace Twilight.Kernel.Authentication
 {
     public enum AuthenticationResults
 	{

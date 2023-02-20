@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using Convesys.Kernel.Authentication.Services;
+using Twilight.Kernel.Authentication.Services;
 
-namespace Convesys.Kernel.Authentication.AuthenticatonManagers
+namespace Twilight.Kernel.Authentication.AuthenticatonManagers
 {
     public interface IAuthenticationManager
     {

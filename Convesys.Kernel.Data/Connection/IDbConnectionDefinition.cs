@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Data.Connection
+﻿namespace Twilight.Kernel.Data.Connection
 {
 	public interface IDbConnectionDefinition
 	{

@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Authentication.Services
+namespace Twilight.Kernel.Authentication.Services
 {
     public interface IIdentityProviderService
     {

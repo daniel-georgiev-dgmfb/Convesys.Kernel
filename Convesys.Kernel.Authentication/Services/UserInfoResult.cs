@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Authentication.Services
+﻿namespace Twilight.Kernel.Authentication.Services
 {
     public class UserInfoResult
     {

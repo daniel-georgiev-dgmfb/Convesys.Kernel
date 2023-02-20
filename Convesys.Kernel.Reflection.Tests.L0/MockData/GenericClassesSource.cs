@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Reflection.Tests.L0.MockData
+﻿namespace Twilight.Kernel.Reflection.Tests.L0.MockData
 {
 	public class GenericBaseClass<T> : IGenericInterface<T> {}
 

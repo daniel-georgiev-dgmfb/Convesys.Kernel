@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Configuration
+﻿namespace Twilight.Kernel.Configuration
 {
     public interface IConfiguration
     {

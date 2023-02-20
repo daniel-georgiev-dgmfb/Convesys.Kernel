@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Security.SecretManagement
+namespace Twilight.Kernel.Security.SecretManagement
 {
     public interface ISecretStore
     {

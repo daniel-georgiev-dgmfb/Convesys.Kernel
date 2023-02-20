@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.Security.Permissions;
 
-namespace Convesys.Kernel.Smtp.Exceptions
+namespace Twilight.Kernel.Smtp.Exceptions
 {
     [Serializable]
     public class RecipientsNotAcceptedException : Exception

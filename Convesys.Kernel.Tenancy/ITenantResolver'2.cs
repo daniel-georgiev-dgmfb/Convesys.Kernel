@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Tenancy
+namespace Twilight.Kernel.Tenancy
 {
     /// <summary>
     /// Resolve tenant descriptor from specified source

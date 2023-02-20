@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.DependencyResolver
+namespace Twilight.Kernel.DependencyResolver
 {
     public interface IRepositoryResolver
 	{

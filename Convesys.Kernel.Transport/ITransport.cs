@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Transport
+namespace Twilight.Kernel.Transport
 {
     public interface ITransport : IDisposable
     {

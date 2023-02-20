@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Storage
+namespace Twilight.Kernel.Storage
 {
     public interface IStorage<TIndentifier>
     {

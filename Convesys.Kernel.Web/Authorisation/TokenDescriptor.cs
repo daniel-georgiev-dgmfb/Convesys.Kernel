@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Web.Authorisation
+namespace Twilight.Kernel.Web.Authorisation
 {
     public class TokenDescriptor : IEquatable<TokenDescriptor>
     {

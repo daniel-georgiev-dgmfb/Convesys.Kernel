@@ -1,9 +1,9 @@
-﻿namespace Convesys.Kernel.Reflection.Tests.L0.Extensions
+﻿namespace Twilight.Kernel.Reflection.Tests.L0.Extensions
 {
     using System;
     using System.Threading.Tasks;
-    using Convesys.Kernel.Reflection.Extensions;
-    using Convesys.Kernel.Reflection.Tests.L0.MockData;
+    using Twilight.Kernel.Reflection.Extensions;
+    using Twilight.Kernel.Reflection.Tests.L0.MockData;
     using NUnit.Framework;
 
     [TestFixture, Category("ReflectionTypeExtensions")]

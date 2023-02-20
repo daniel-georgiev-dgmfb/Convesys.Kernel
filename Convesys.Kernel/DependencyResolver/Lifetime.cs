@@ -1,5 +1,5 @@
 ﻿
-namespace Convesys.Kernel.DependencyResolver
+namespace Twilight.Kernel.DependencyResolver
 {
 	public enum Lifetime
 	{

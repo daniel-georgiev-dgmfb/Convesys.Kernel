@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Logging
+namespace Twilight.Kernel.Logging
 {
     public interface IEventLogger<T> : IEventLogger
     {

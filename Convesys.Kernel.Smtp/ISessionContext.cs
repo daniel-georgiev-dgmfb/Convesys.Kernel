@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net;
-using Convesys.Kernel.Smtp.IO;
+using Twilight.Kernel.Smtp.IO;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface ISessionContext
     {

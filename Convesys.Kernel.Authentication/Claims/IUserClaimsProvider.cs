@@ -2,7 +2,7 @@
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Authentication.Claims
+namespace Twilight.Kernel.Authentication.Claims
 {
     public interface IUserClaimsProvider<TUser>
     {

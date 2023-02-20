@@ -1,5 +1,5 @@
 ﻿
-namespace Convesys.Kernel.Data
+namespace Twilight.Kernel.Data
 {
 	public interface IHasID
 	{

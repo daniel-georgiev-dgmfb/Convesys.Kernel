@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Convesys.Kernel.Message.Handling
+namespace Twilight.Kernel.Message.Handling
 {
     public interface IHandlerResolver
     {

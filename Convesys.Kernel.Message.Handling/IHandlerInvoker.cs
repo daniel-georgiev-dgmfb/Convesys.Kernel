@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Message.Handling
+namespace Twilight.Kernel.Message.Handling
 {
     public interface IHandlerInvoker
     {

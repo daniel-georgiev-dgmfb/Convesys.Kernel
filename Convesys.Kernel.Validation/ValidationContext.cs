@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace Convesys.Kernel.Validation
+namespace Twilight.Kernel.Validation
 {
     public class ValidationContext : IServiceProvider
     {

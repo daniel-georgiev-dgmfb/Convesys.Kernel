@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace Convesys.Kernel.Extensions
+namespace Twilight.Kernel.Extensions
 {
     public static class ExceptionExtensions
     {

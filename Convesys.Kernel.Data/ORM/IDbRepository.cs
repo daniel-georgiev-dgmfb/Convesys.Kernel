@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Data.ORM
+﻿namespace Twilight.Kernel.Data.ORM
 {
 	/// <summary>
 	/// Non generic Data base repository

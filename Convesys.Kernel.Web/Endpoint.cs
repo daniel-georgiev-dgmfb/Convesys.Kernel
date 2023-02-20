@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Convesys.Kernel.Web
+namespace Twilight.Kernel.Web
 {
     public class Endpoint : IEquatable<Endpoint>
     {

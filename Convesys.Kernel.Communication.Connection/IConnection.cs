@@ -1,8 +1,8 @@
-﻿using Convesys.Kernel.Communication.Common;
+﻿using Twilight.Kernel.Communication.Common;
 using System;
 using System.Threading.Tasks;
 
-namespace Convesys.Kernel.Communication.Connection
+namespace Twilight.Kernel.Communication.Connection
 {
 	public interface IConnection : IDisposable
 	{

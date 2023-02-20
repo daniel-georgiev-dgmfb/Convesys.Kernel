@@ -1,4 +1,4 @@
-﻿namespace Convesys.Kernel.Tests.L0.MockData
+﻿namespace Twilight.Kernel.Tests.L0.MockData
 {
 
 	public class MockNestedType1

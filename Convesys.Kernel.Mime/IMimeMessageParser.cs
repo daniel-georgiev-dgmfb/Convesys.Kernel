@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace Convesys.Kernel.Mime
+namespace Twilight.Kernel.Mime
 {
     public interface IMimeMessageParser
     {

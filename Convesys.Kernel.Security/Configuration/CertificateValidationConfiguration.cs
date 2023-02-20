@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Convesys.Kernel.Security.Security;
+using Twilight.Kernel.Security.Security;
 
-namespace Convesys.Kernel.Security.Configuration
+namespace Twilight.Kernel.Security.Configuration
 {
     public class CertificateValidationConfiguration
     {

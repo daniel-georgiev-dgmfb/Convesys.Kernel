@@ -1,14 +1,14 @@
-﻿using Convesys.Kernel.Smtp.Authentication;
-using Convesys.Kernel.Smtp.Storage;
+﻿using Twilight.Kernel.Smtp.Authentication;
+using Twilight.Kernel.Smtp.Storage;
 using System;
 using System.Collections.Generic;
 using System.Security.Authentication;
 using System.Security.Cryptography.X509Certificates;
-using Convesys.Kernel.Smtp.MailboxFilter;
-using Convesys.Kernel.Smtp.Transport;
-using Convesys.Kernel.Smtp.Validation;
+using Twilight.Kernel.Smtp.MailboxFilter;
+using Twilight.Kernel.Smtp.Transport;
+using Twilight.Kernel.Smtp.Validation;
 
-namespace Convesys.Kernel.Smtp
+namespace Twilight.Kernel.Smtp
 {
     public interface ISmtpServerOptions
     {

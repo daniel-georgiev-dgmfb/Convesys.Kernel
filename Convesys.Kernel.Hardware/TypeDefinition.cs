@@ -1,8 +1,8 @@
-﻿using Convesys.Kernel.Data;
-using Convesys.Kernel.Data.ORM;
+﻿using Twilight.Kernel.Data;
+using Twilight.Kernel.Data.ORM;
 using System;
 
-namespace Convesys.Kernel.Communication.Common
+namespace Twilight.Kernel.Communication.Common
 {
 	public abstract class TypeDefinition : BaseModel, IMapPrivateProperty
 	{
