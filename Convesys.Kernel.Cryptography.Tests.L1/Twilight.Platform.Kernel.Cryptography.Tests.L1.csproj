@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Cryptography\Twilight.Kernel.Cryptography.csproj" />
+    <ProjectReference Include="..\Convesys.Kernel.Cryptography\Twilight.Platform.Kernel.Cryptography.csproj" />
   </ItemGroup>
 
 </Project>

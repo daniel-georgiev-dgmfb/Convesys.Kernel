@@ -8,7 +8,8 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
+
     <IsPackable>false</IsPackable>
   </PropertyGroup>
 
@@ -19,12 +20,10 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-    <DotNetCliToolReference Include="dotnet-xunit" Version="2.3.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Cryptography.Tools\Twilight.Kernel.Cryptography.Tools.csproj" />
-    <ProjectReference Include="..\Convesys.Kernel.Cryptography\Twilight.Kernel.Cryptography.csproj" />
+    <ProjectReference Include="..\Convesys.Kernel.Mime\Twilight.Platform.Kernel.Mime.csproj" />
   </ItemGroup>
 
 </Project>
