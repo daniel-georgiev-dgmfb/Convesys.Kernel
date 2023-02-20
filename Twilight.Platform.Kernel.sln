@@ -9,25 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Mime", "Con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Smtp", "Convesys.Kernel.Smtp\Twilight.Kernel.Smtp.csproj", "{248B914C-165D-4449-9376-5E4ADEDB6186}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Validation", "Convesys.Kernel.Validation\Twiligth.Kernel.Validation.csproj", "{3C097722-4AAA-46EC-B9A9-739660D4227C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Validation", "Convesys.Kernel.Validation\Twiligth.Platform.Kernel.Validation.csproj", "{3C097722-4AAA-46EC-B9A9-739660D4227C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Data", "Convesys.Kernel.Data\Twiligth.Kernel.Data.csproj", "{10DAC425-294B-4127-9E27-A3B134DCE162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Data", "Convesys.Kernel.Data\Twiligth.Platform.Kernel.Data.csproj", "{10DAC425-294B-4127-9E27-A3B134DCE162}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Reflection", "Convesys.Kernel.Reflection\Twiligth.Kernel.Reflection.csproj", "{74A7F550-01AC-4991-862B-520F2DE9ADA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Reflection", "Convesys.Kernel.Reflection\Twiligth.Platform.Kernel.Reflection.csproj", "{74A7F550-01AC-4991-862B-520F2DE9ADA0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Caching", "Convesys.Kernel.Caching\Twiligth.Kernel.Caching.csproj", "{F0F8007F-93E9-421E-ABC6-044FA929ADA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Caching", "Convesys.Kernel.Caching\Twiligth.Platform.Kernel.Caching.csproj", "{F0F8007F-93E9-421E-ABC6-044FA929ADA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Transport", "Convesys.Kernel.Transport\Twiligth.Kernel.Transport.csproj", "{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Transport", "Convesys.Kernel.Transport\Twiligth.Platform.Kernel.Transport.csproj", "{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Messaging", "Convesys.Kernel.Messaging\Twilight.Kernel.Messaging.csproj", "{518F63FD-35FC-4AF1-B448-294B9415B619}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Message.Handling", "Convesys.Kernel.Message.Handling\Twilight.Kernel.Message.Handling.csproj", "{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Configuration", "Convesys.Kernel.Configuration\Twilight.Kernel.Configuration.csproj", "{0D518503-45A9-473F-904C-1444762A84A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Security", "Convesys.Kernel.Security\Twiligth.Platform.Kernel.Security.csproj", "{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Security", "Convesys.Kernel.Security\Twiligth.Kernel.Security.csproj", "{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Web", "Convesys.Kernel.Web\Twiligth.Kernel.Web.csproj", "{4630016D-1E40-40B4-B453-4444296695F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Web", "Convesys.Kernel.Web\Twiligth.Platform.Kernel.Web.csproj", "{4630016D-1E40-40B4-B453-4444296695F1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Cryptography", "Convesys.Kernel.Cryptography\Twilight.Kernel.Cryptography.csproj", "{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}"
 EndProject
@@ -43,19 +41,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Cryptograph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Mime.Tests.L0", "Convesys.Kernel.Mime.Tests.L0\Twilight.Kernel.Mime.Tests.L0.csproj", "{F0AB0BFB-3C6B-43C1-9AD2-786A0D47D885}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Reflection.Tests.L0", "Convesys.Kernel.Reflection.Tests.L0\Twiligth.Kernel.Reflection.Tests.L0.csproj", "{0490FA82-0711-4A40-928A-09AB2F3D2ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Reflection.Tests.L0", "Convesys.Kernel.Reflection.Tests.L0\Twiligth.Platform.Kernel.Reflection.Tests.L0.csproj", "{0490FA82-0711-4A40-928A-09AB2F3D2ECE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Tests.L0", "Convesys.Kernel.Tests.L0\Twiligth.Kernel.Tests.L0.csproj", "{DAD64451-3784-46D4-8CE6-296826A1B078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Tests.L0", "Convesys.Kernel.Tests.L0\Twiligth.Platform.Kernel.Tests.L0.csproj", "{DAD64451-3784-46D4-8CE6-296826A1B078}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Tenancy", "Convesys.Kernel.Tenancy\Twiligth.Kernel.Tenancy.csproj", "{F34276B5-697B-40E6-B216-4745A7966A8A}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel", "Convesys.Kernel\Twilight.Kernel.csproj", "{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Communication.Connection", "Convesys.Kernel.Communication.Connection\Twilight.Kernel.Communication.Connection.csproj", "{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Tenancy", "Convesys.Kernel.Tenancy\Twiligth.Platform.Kernel.Tenancy.csproj", "{F34276B5-697B-40E6-B216-4745A7966A8A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Communication.Protocols", "Convesys.Kernel.Communication.Protocols\Twilight.Kernel.Communication.Protocols.csproj", "{2B446B21-52C8-4010-8D8A-304059BAA54F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Communication.Common", "Convesys.Kernel.Communication.Common\Twiligth.Kernel.Communication.Common.csproj", "{12B83224-2ED8-43AD-9922-8F321458FE87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Communication.Common", "Convesys.Kernel.Communication.Common\Twiligth.Platform.Kernel.Communication.Common.csproj", "{12B83224-2ED8-43AD-9922-8F321458FE87}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Hardware", "Convesys.Kernel.Hardware\Twilight.Kernel.Hardware.csproj", "{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}"
 EndProject
@@ -65,7 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Cryptograph
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Kernel.Cryptography.Tools", "Convesys.Kernel.Cryptography.Tools\Twilight.Kernel.Cryptography.Tools.csproj", "{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Kernel.Spatial", "Convesys.Kernel.Spatial\Twiligth.Kernel.Spatial.csproj", "{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Spatial", "Convesys.Kernel.Spatial\Twiligth.Platform.Kernel.Spatial.csproj", "{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Kernel", "Convesys.Kernel\Twilight.Platform.Kernel.Kernel.csproj", "{1740855A-EE40-4535-94C9-607DC207FC41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Communication.Connection", "Convesys.Kernel.Communication.Connection\Twilight.Platform.Kernel.Communication.Connection.csproj", "{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Configuration", "Convesys.Kernel.Configuration\Twilight.Platform.Kernel.Configuration.csproj", "{B730DB97-94EE-4C25-93C4-31238F63CD1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -155,14 +155,6 @@ Global
 		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Release|x86.ActiveCfg = Release|Any CPU
 		{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}.Release|x86.Build.0 = Release|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Debug|x86.Build.0 = Debug|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Release|x86.ActiveCfg = Release|Any CPU
-		{0D518503-45A9-473F-904C-1444762A84A0}.Release|x86.Build.0 = Release|Any CPU
 		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -259,22 +251,6 @@ Global
 		{F34276B5-697B-40E6-B216-4745A7966A8A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F34276B5-697B-40E6-B216-4745A7966A8A}.Release|x86.ActiveCfg = Release|Any CPU
 		{F34276B5-697B-40E6-B216-4745A7966A8A}.Release|x86.Build.0 = Release|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Debug|x86.Build.0 = Debug|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Release|x86.ActiveCfg = Release|Any CPU
-		{8FAD6108-DE50-4398-B2F3-CF56CACEB70B}.Release|x86.Build.0 = Release|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Debug|x86.Build.0 = Debug|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Release|x86.ActiveCfg = Release|Any CPU
-		{8F4D5C19-EE1A-4580-9DD1-078EF5EE2A74}.Release|x86.Build.0 = Release|Any CPU
 		{2B446B21-52C8-4010-8D8A-304059BAA54F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2B446B21-52C8-4010-8D8A-304059BAA54F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B446B21-52C8-4010-8D8A-304059BAA54F}.Debug|x86.ActiveCfg = Debug|Any CPU
@@ -331,6 +307,30 @@ Global
 		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|x86.ActiveCfg = Release|Any CPU
 		{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}.Release|x86.Build.0 = Release|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Debug|x86.Build.0 = Debug|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Release|x86.ActiveCfg = Release|Any CPU
+		{1740855A-EE40-4535-94C9-607DC207FC41}.Release|x86.Build.0 = Release|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Debug|x86.Build.0 = Debug|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBA84F4A-4CD6-4B2E-8A36-2D093FA53C2D}.Release|x86.Build.0 = Release|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Debug|x86.Build.0 = Debug|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Release|x86.ActiveCfg = Release|Any CPU
+		{B730DB97-94EE-4C25-93C4-31238F63CD1B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,7 +17,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Reflection\Twiligth.Kernel.Reflection.csproj" />
+    <ProjectReference Include="..\Convesys.Kernel.Reflection\Twiligth.Platform.Kernel.Reflection.csproj" />
   </ItemGroup>
 
 </Project>
