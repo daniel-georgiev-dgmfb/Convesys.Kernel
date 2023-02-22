@@ -16,4 +16,9 @@
 	<RootNamespace>$(MSBuildProjectName.Replace(" ", "_").Replace("Convesys","Twilight"))</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Twilight.Platform.Kernel.Kernel" Version="1.0.0" />
+    <PackageReference Include="Twiligth.Platform.Kernel.Reflection" Version="1.0.0" />
+  </ItemGroup>
+
 </Project>

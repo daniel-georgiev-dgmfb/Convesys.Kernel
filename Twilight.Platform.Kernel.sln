@@ -9,29 +9,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Mi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Smtp", "Convesys.Kernel.Smtp\Twilight.Platform.Kernel.Smtp.csproj", "{248B914C-165D-4449-9376-5E4ADEDB6186}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Validation", "Convesys.Kernel.Validation\Twiligth.Platform.Kernel.Validation.csproj", "{3C097722-4AAA-46EC-B9A9-739660D4227C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Validation", "Convesys.Kernel.Validation\Twilight.Platform.Kernel.Validation.csproj", "{3C097722-4AAA-46EC-B9A9-739660D4227C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Data", "Convesys.Kernel.Data\Twiligth.Platform.Kernel.Data.csproj", "{10DAC425-294B-4127-9E27-A3B134DCE162}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Data", "Convesys.Kernel.Data\Twilight.Platform.Kernel.Data.csproj", "{10DAC425-294B-4127-9E27-A3B134DCE162}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Reflection", "Convesys.Kernel.Reflection\Twiligth.Platform.Kernel.Reflection.csproj", "{74A7F550-01AC-4991-862B-520F2DE9ADA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Reflection", "Convesys.Kernel.Reflection\Twilight.Platform.Kernel.Reflection.csproj", "{74A7F550-01AC-4991-862B-520F2DE9ADA0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Caching", "Convesys.Kernel.Caching\Twiligth.Platform.Kernel.Caching.csproj", "{F0F8007F-93E9-421E-ABC6-044FA929ADA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Caching", "Convesys.Kernel.Caching\Twilight.Platform.Kernel.Caching.csproj", "{F0F8007F-93E9-421E-ABC6-044FA929ADA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Transport", "Convesys.Kernel.Transport\Twiligth.Platform.Kernel.Transport.csproj", "{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Transport", "Convesys.Kernel.Transport\Twilight.Platform.Kernel.Transport.csproj", "{FE8978D3-D6BD-4B72-97D2-687CBE2476EF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Messaging", "Convesys.Kernel.Messaging\Twilight.Platform.Kernel.Messaging.csproj", "{518F63FD-35FC-4AF1-B448-294B9415B619}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Message.Handling", "Convesys.Kernel.Message.Handling\Twilight.Platform.Kernel.Message.Handling.csproj", "{D9F9392D-25EA-470A-AD5F-8DF5B7B8A70B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Security", "Convesys.Kernel.Security\Twiligth.Platform.Kernel.Security.csproj", "{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Security", "Convesys.Kernel.Security\Twilight.Platform.Kernel.Security.csproj", "{B6F3E0E7-43DA-4D2B-A5E8-F7BEBF968EFF}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Web", "Convesys.Kernel.Web\Twiligth.Platform.Kernel.Web.csproj", "{4630016D-1E40-40B4-B453-4444296695F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Web", "Convesys.Kernel.Web\Twilight.Platform.Kernel.Web.csproj", "{4630016D-1E40-40B4-B453-4444296695F1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Cryptography", "Convesys.Kernel.Cryptography\Twilight.Platform.Kernel.Cryptography.csproj", "{7F674D0F-BFA1-4164-BC48-95CD8FAEB551}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Authentication", "Convesys.Kernel.Authentication\Twiligth.Platform.Kernel.Authentication.csproj", "{E4A9172E-CF8D-4670-A031-91B58E6E364D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Authentication", "Convesys.Kernel.Authentication\Twilight.Platform.Kernel.Authentication.csproj", "{E4A9172E-CF8D-4670-A031-91B58E6E364D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Authorisation", "Convesys.Kernel.Authorisation\Twiligth.Platform.Kernel.Authorisation.csproj", "{357C2D97-D4A4-4D70-8948-090485F7BFE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Authorisation", "Convesys.Kernel.Authorisation\Twilight.Platform.Kernel.Authorisation.csproj", "{357C2D97-D4A4-4D70-8948-090485F7BFE2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Identity", "Convesys.Kernel.Identity\Twilight.Platform.Kernel.Identity.csproj", "{7BDF5183-FABB-4F78-B92E-487851C8ED24}"
 EndProject
@@ -41,13 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Cr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Mime.Tests.L0", "Convesys.Kernel.Mime.Tests.L0\Twilight.Platform.Kernel.Mime.Tests.L0.csproj", "{F0AB0BFB-3C6B-43C1-9AD2-786A0D47D885}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Reflection.Tests.L0", "Convesys.Kernel.Reflection.Tests.L0\Twiligth.Platform.Kernel.Reflection.Tests.L0.csproj", "{0490FA82-0711-4A40-928A-09AB2F3D2ECE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Reflection.Tests.L0", "Convesys.Kernel.Reflection.Tests.L0\Twilight.Platform.Kernel.Reflection.Tests.L0.csproj", "{0490FA82-0711-4A40-928A-09AB2F3D2ECE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Tests.L0", "Convesys.Kernel.Tests.L0\Twiligth.Platform.Kernel.Tests.L0.csproj", "{DAD64451-3784-46D4-8CE6-296826A1B078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Tests.L0", "Convesys.Kernel.Tests.L0\Twilight.Platform.Kernel.Tests.L0.csproj", "{DAD64451-3784-46D4-8CE6-296826A1B078}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Tenancy", "Convesys.Kernel.Tenancy\Twiligth.Platform.Kernel.Tenancy.csproj", "{F34276B5-697B-40E6-B216-4745A7966A8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Tenancy", "Convesys.Kernel.Tenancy\Twilight.Platform.Kernel.Tenancy.csproj", "{F34276B5-697B-40E6-B216-4745A7966A8A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Communication.Common", "Convesys.Kernel.Communication.Common\Twiligth.Platform.Kernel.Communication.Common.csproj", "{12B83224-2ED8-43AD-9922-8F321458FE87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Communication.Common", "Convesys.Kernel.Communication.Common\Twilight.Platform.Kernel.Communication.Common.csproj", "{12B83224-2ED8-43AD-9922-8F321458FE87}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Hardware", "Convesys.Kernel.Hardware\Twilight.Platform.Kernel.Hardware.csproj", "{71D5A4BF-6C19-4C7E-91F2-3D10992701DD}"
 EndProject
@@ -57,7 +57,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Cr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Cryptography.Tools", "Convesys.Kernel.Cryptography.Tools\Twilight.Platform.Kernel.Cryptography.Tools.csproj", "{223FD9E8-D0E0-4CED-9274-1C78A2752AD1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twiligth.Platform.Kernel.Spatial", "Convesys.Kernel.Spatial\Twiligth.Platform.Kernel.Spatial.csproj", "{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Spatial", "Convesys.Kernel.Spatial\Twilight.Platform.Kernel.Spatial.csproj", "{E2C1F335-F08C-411B-A17D-4B0FA70ED2D3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Twilight.Platform.Kernel.Kernel", "Convesys.Kernel\Twilight.Platform.Kernel.Kernel.csproj", "{1740855A-EE40-4535-94C9-607DC207FC41}"
 EndProject

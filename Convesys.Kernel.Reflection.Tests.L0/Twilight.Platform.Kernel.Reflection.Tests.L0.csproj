@@ -29,7 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel.Reflection\Twiligth.Platform.Kernel.Reflection.csproj" />
+    <ProjectReference Include="..\Convesys.Kernel.Reflection\Twilight.Platform.Kernel.Reflection.csproj" />
   </ItemGroup>
 
 </Project>
