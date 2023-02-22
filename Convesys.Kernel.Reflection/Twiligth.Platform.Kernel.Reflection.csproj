@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup Label="Globals">
     <SccProjectName>SAK</SccProjectName>
@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Convesys.Kernel\Twilight.Kernel.csproj" />
+    <PackageReference Include="Twilight.Platform.Kernel.Kernel" Version="1.0.0" />
   </ItemGroup>
 
 </Project>
