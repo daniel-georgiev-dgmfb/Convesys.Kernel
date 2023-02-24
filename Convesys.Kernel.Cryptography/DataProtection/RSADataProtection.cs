@@ -1,6 +1,6 @@
 ﻿using System.Security.Cryptography;
 
-namespace Kernel.Cryptography.DataProtection
+namespace Twilight.Kernel.Cryptography.DataProtection
 {
     public class RSADataProtection
     {

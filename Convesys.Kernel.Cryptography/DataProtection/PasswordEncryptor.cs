@@ -3,7 +3,7 @@ using System.IO;
 using System.Security.Cryptography;
 using Microsoft.AspNetCore.Cryptography.KeyDerivation;
 
-namespace Kernel.Cryptography.DataProtection
+namespace Twilight.Kernel.Cryptography.DataProtection
 {
     public class PasswordEncryptor : IDisposable
     {
