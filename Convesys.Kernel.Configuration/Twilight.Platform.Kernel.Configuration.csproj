@@ -12,6 +12,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Abstraction for configuration</Description>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+	<Version>1.0.0</Version>
   </PropertyGroup>
 
 </Project>
